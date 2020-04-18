@@ -1,6 +1,6 @@
 # ****************************************************************************
 # NOTES:
-
+#
 # In order for this to work, you must replace STAGING_ORGANISATION below
 # with the name of your staging GitHub organisation, in line 53.
 # You must also replace STAGING_SITE_REPOSITORY below with the name of your
