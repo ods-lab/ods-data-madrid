@@ -1,7 +1,1849 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Barrio,Nivel,Value
+2018,011. Palacio,No sabe leer ni escribir,54
+2018,012. Embajadores,No sabe leer ni escribir,151
+2018,013. Cortes,No sabe leer ni escribir,19
+2018,014. Justicia,No sabe leer ni escribir,28
+2018,015. Universidad,No sabe leer ni escribir,45
+2018,016. Sol,No sabe leer ni escribir,12
+2018,021. Imperial,No sabe leer ni escribir,21
+2018,022. Acacias,No sabe leer ni escribir,45
+2018,023. Chopera,No sabe leer ni escribir,35
+2018,024. Legazpi,No sabe leer ni escribir,7
+2018,025. Delicias,No sabe leer ni escribir,36
+2018,026. Palos de Moguer,No sabe leer ni escribir,43
+2018,027. Atocha,No sabe leer ni escribir,2
+2018,031. Pacífico,No sabe leer ni escribir,47
+2018,032. Adelfas,No sabe leer ni escribir,30
+2018,033. Estrella,No sabe leer ni escribir,28
+2018,034. Ibiza,No sabe leer ni escribir,32
+2018,035. Jerónimos,No sabe leer ni escribir,11
+2018,036. Niño Jesús,No sabe leer ni escribir,19
+2018,041. Recoletos,No sabe leer ni escribir,7
+2018,042. Goya,No sabe leer ni escribir,43
+2018,043. Fuente del Berro,No sabe leer ni escribir,35
+2018,044. Guindalera,No sabe leer ni escribir,46
+2018,045. Lista,No sabe leer ni escribir,21
+2018,046. Castellana,No sabe leer ni escribir,16
+2018,051. El Viso,No sabe leer ni escribir,28
+2018,052. Prosperidad,No sabe leer ni escribir,49
+2018,053. Ciudad Jardín,No sabe leer ni escribir,28
+2018,054. Hispanoamérica,No sabe leer ni escribir,24
+2018,055. Nueva España,No sabe leer ni escribir,16
+2018,056. Castilla,No sabe leer ni escribir,29
+2018,061. Bellas Vistas,No sabe leer ni escribir,59
+2018,062. Cuatro Caminos,No sabe leer ni escribir,70
+2018,063. Castillejos,No sabe leer ni escribir,32
+2018,064. Almenara,No sabe leer ni escribir,151
+2018,065. Valdeacederas,No sabe leer ni escribir,121
+2018,066. Berruguete,No sabe leer ni escribir,59
+2018,071. Gaztambide,No sabe leer ni escribir,24
+2018,072. Arapiles,No sabe leer ni escribir,30
+2018,073. Trafalgar,No sabe leer ni escribir,33
+2018,074. Almagro,No sabe leer ni escribir,21
+2018,075. Ríos Rosas,No sabe leer ni escribir,37
+2018,076. Vallehermoso,No sabe leer ni escribir,22
+2018,081. El Pardo,No sabe leer ni escribir,11
+2018,082. Fuentelarreina,No sabe leer ni escribir,4
+2018,083. Peñagrande,No sabe leer ni escribir,144
+2018,084. Pilar,No sabe leer ni escribir,156
+2018,085. La Paz,No sabe leer ni escribir,34
+2018,086. Valverde,No sabe leer ni escribir,193
+2018,087. Mirasierra,No sabe leer ni escribir,89
+2018,088. El Goloso,No sabe leer ni escribir,40
+2018,091. Casa de Campo,No sabe leer ni escribir,23
+2018,092. Argüelles,No sabe leer ni escribir,22
+2018,093. Ciudad Universitaria,No sabe leer ni escribir,16
+2018,094. Valdezarza,No sabe leer ni escribir,60
+2018,095. Valdemarín,No sabe leer ni escribir,4
+2018,096. El Plantío,No sabe leer ni escribir,7
+2018,097. Aravaca,No sabe leer ni escribir,48
+2018,101. Los Cármenes,No sabe leer ni escribir,138
+2018,102. Puerta del Angel,No sabe leer ni escribir,144
+2018,103. Lucero,No sabe leer ni escribir,139
+2018,104. Aluche,No sabe leer ni escribir,172
+2018,105. Campamento,No sabe leer ni escribir,55
+2018,106. Cuatro Vientos,No sabe leer ni escribir,19
+2018,107. Las Águilas,No sabe leer ni escribir,247
+2018,111. Comillas,No sabe leer ni escribir,82
+2018,112. Opañel,No sabe leer ni escribir,110
+2018,113. San Isidro,No sabe leer ni escribir,264
+2018,114. Vista Alegre,No sabe leer ni escribir,166
+2018,115. Puerta Bonita,No sabe leer ni escribir,272
+2018,116. Buenavista,No sabe leer ni escribir,152
+2018,117. Abrantes,No sabe leer ni escribir,143
+2018,121. Orcasitas,No sabe leer ni escribir,293
+2018,122. Orcasur,No sabe leer ni escribir,240
+2018,123. San Fermín,No sabe leer ni escribir,187
+2018,124. Almendrales,No sabe leer ni escribir,66
+2018,125. Moscardó,No sabe leer ni escribir,74
+2018,126. Zofio,No sabe leer ni escribir,62
+2018,127. Pradolongo,No sabe leer ni escribir,117
+2018,131. Entrevías,No sabe leer ni escribir,643
+2018,132. San Diego,No sabe leer ni escribir,238
+2018,133. Palomeras Bajas,No sabe leer ni escribir,253
+2018,134. Palomeras Sureste,No sabe leer ni escribir,488
+2018,135. Portazgo,No sabe leer ni escribir,376
+2018,136. Numancia,No sabe leer ni escribir,332
+2018,141. Pavones,No sabe leer ni escribir,104
+2018,142. Horcajo,No sabe leer ni escribir,29
+2018,143. Marroquina,No sabe leer ni escribir,72
+2018,144. Media Legua,No sabe leer ni escribir,144
+2018,145. Fontarrón,No sabe leer ni escribir,109
+2018,146. Vinateros,No sabe leer ni escribir,75
+2018,151. Ventas,No sabe leer ni escribir,186
+2018,152. Pueblo Nuevo,No sabe leer ni escribir,244
+2018,153. Quintana,No sabe leer ni escribir,83
+2018,154. Concepción,No sabe leer ni escribir,50
+2018,155. San Pascual,No sabe leer ni escribir,80
+2018,156. San Juan Bautista,No sabe leer ni escribir,15
+2018,157. Colina,No sabe leer ni escribir,9
+2018,158. Atalaya,No sabe leer ni escribir,0
+2018,159. Costillares,No sabe leer ni escribir,54
+2018,161. Palomas,No sabe leer ni escribir,6
+2018,162. Piovera,No sabe leer ni escribir,8
+2018,163. Canillas,No sabe leer ni escribir,119
+2018,164. Pinar del Rey,No sabe leer ni escribir,198
+2018,165. Apóstol Santiago,No sabe leer ni escribir,82
+2018,166. Valdefuentes,No sabe leer ni escribir,100
+2018,"171. Villaverde Alto, C.H. Villaverde",No sabe leer ni escribir,446
+2018,172. San Cristóbal,No sabe leer ni escribir,164
+2018,173. Butarque,No sabe leer ni escribir,72
+2018,174. Los Rosales,No sabe leer ni escribir,252
+2018,175. Los Ángeles,No sabe leer ni escribir,188
+2018,181. Casco Histórico de Vallecas,No sabe leer ni escribir,524
+2018,182. Santa Eugenia,No sabe leer ni escribir,162
+2018,183. Ensanche de Vallecas,No sabe leer ni escribir,105
+2018,191. Casco Histórico de Vicálvaro,No sabe leer ni escribir,351
+2018,192. Valdebernardo,No sabe leer ni escribir,82
+2018,193. Valderrivas,No sabe leer ni escribir,7
+2018,194. El Cañaveral,No sabe leer ni escribir,3
+2018,201. Simancas,No sabe leer ni escribir,152
+2018,202. Hellín,No sabe leer ni escribir,96
+2018,203. Amposta,No sabe leer ni escribir,108
+2018,204. Arcos,No sabe leer ni escribir,305
+2018,205. Rosas,No sabe leer ni escribir,45
+2018,206. Rejas,No sabe leer ni escribir,39
+2018,207. Canillejas,No sabe leer ni escribir,199
+2018,208. Salvador,No sabe leer ni escribir,18
+2018,211. Alameda de Osuna,No sabe leer ni escribir,22
+2018,212. Aeropuerto,No sabe leer ni escribir,27
+2018,213. Casco Histórico de Barajas,No sabe leer ni escribir,72
+2018,214. Timón,No sabe leer ni escribir,34
+2018,215. Corralejos,No sabe leer ni escribir,14
+2018,011. Palacio,Sin estudios,518
+2018,012. Embajadores,Sin estudios,1.690
+2018,013. Cortes,Sin estudios,194
+2018,014. Justicia,Sin estudios,230
+2018,015. Universidad,Sin estudios,612
+2018,016. Sol,Sin estudios,128
+2018,021. Imperial,Sin estudios,430
+2018,022. Acacias,Sin estudios,719
+2018,023. Chopera,Sin estudios,621
+2018,024. Legazpi,Sin estudios,177
+2018,025. Delicias,Sin estudios,498
+2018,026. Palos de Moguer,Sin estudios,671
+2018,027. Atocha,Sin estudios,17
+2018,031. Pacífico,Sin estudios,598
+2018,032. Adelfas,Sin estudios,365
+2018,033. Estrella,Sin estudios,307
+2018,034. Ibiza,Sin estudios,345
+2018,035. Jerónimos,Sin estudios,87
+2018,036. Niño Jesús,Sin estudios,113
+2018,041. Recoletos,Sin estudios,101
+2018,042. Goya,Sin estudios,382
+2018,043. Fuente del Berro,Sin estudios,346
+2018,044. Guindalera,Sin estudios,625
+2018,045. Lista,Sin estudios,235
+2018,046. Castellana,Sin estudios,159
+2018,051. El Viso,Sin estudios,157
+2018,052. Prosperidad,Sin estudios,512
+2018,053. Ciudad Jardín,Sin estudios,274
+2018,054. Hispanoamérica,Sin estudios,305
+2018,055. Nueva España,Sin estudios,174
+2018,056. Castilla,Sin estudios,215
+2018,061. Bellas Vistas,Sin estudios,821
+2018,062. Cuatro Caminos,Sin estudios,633
+2018,063. Castillejos,Sin estudios,343
+2018,064. Almenara,Sin estudios,1.105
+2018,065. Valdeacederas,Sin estudios,1.028
+2018,066. Berruguete,Sin estudios,765
+2018,071. Gaztambide,Sin estudios,347
+2018,072. Arapiles,Sin estudios,409
+2018,073. Trafalgar,Sin estudios,352
+2018,074. Almagro,Sin estudios,193
+2018,075. Ríos Rosas,Sin estudios,374
+2018,076. Vallehermoso,Sin estudios,161
+2018,081. El Pardo,Sin estudios,154
+2018,082. Fuentelarreina,Sin estudios,31
+2018,083. Peñagrande,Sin estudios,1.461
+2018,084. Pilar,Sin estudios,2.007
+2018,085. La Paz,Sin estudios,478
+2018,086. Valverde,Sin estudios,1.540
+2018,087. Mirasierra,Sin estudios,321
+2018,088. El Goloso,Sin estudios,252
+2018,091. Casa de Campo,Sin estudios,284
+2018,092. Argüelles,Sin estudios,329
+2018,093. Ciudad Universitaria,Sin estudios,186
+2018,094. Valdezarza,Sin estudios,984
+2018,095. Valdemarín,Sin estudios,43
+2018,096. El Plantío,Sin estudios,23
+2018,097. Aravaca,Sin estudios,321
+2018,101. Los Cármenes,Sin estudios,904
+2018,102. Puerta del Angel,Sin estudios,1.875
+2018,103. Lucero,Sin estudios,1.834
+2018,104. Aluche,Sin estudios,3.062
+2018,105. Campamento,Sin estudios,755
+2018,106. Cuatro Vientos,Sin estudios,88
+2018,107. Las Águilas,Sin estudios,2.891
+2018,111. Comillas,Sin estudios,899
+2018,112. Opañel,Sin estudios,1.340
+2018,113. San Isidro,Sin estudios,2.180
+2018,114. Vista Alegre,Sin estudios,2.133
+2018,115. Puerta Bonita,Sin estudios,2.040
+2018,116. Buenavista,Sin estudios,1.610
+2018,117. Abrantes,Sin estudios,1.368
+2018,121. Orcasitas,Sin estudios,1.821
+2018,122. Orcasur,Sin estudios,1.144
+2018,123. San Fermín,Sin estudios,1.234
+2018,124. Almendrales,Sin estudios,1.072
+2018,125. Moscardó,Sin estudios,1.001
+2018,126. Zofio,Sin estudios,789
+2018,127. Pradolongo,Sin estudios,957
+2018,131. Entrevías,Sin estudios,3.671
+2018,132. San Diego,Sin estudios,2.394
+2018,133. Palomeras Bajas,Sin estudios,2.128
+2018,134. Palomeras Sureste,Sin estudios,3.610
+2018,135. Portazgo,Sin estudios,2.416
+2018,136. Numancia,Sin estudios,2.877
+2018,141. Pavones,Sin estudios,592
+2018,142. Horcajo,Sin estudios,135
+2018,143. Marroquina,Sin estudios,880
+2018,144. Media Legua,Sin estudios,819
+2018,145. Fontarrón,Sin estudios,943
+2018,146. Vinateros,Sin estudios,823
+2018,151. Ventas,Sin estudios,1.996
+2018,152. Pueblo Nuevo,Sin estudios,2.712
+2018,153. Quintana,Sin estudios,801
+2018,154. Concepción,Sin estudios,477
+2018,155. San Pascual,Sin estudios,601
+2018,156. San Juan Bautista,Sin estudios,151
+2018,157. Colina,Sin estudios,96
+2018,158. Atalaya,Sin estudios,10
+2018,159. Costillares,Sin estudios,254
+2018,161. Palomas,Sin estudios,31
+2018,162. Piovera,Sin estudios,123
+2018,163. Canillas,Sin estudios,1.532
+2018,164. Pinar del Rey,Sin estudios,2.387
+2018,165. Apóstol Santiago,Sin estudios,597
+2018,166. Valdefuentes,Sin estudios,467
+2018,"171. Villaverde Alto, C.H. Villaverde",Sin estudios,3.470
+2018,172. San Cristóbal,Sin estudios,1.191
+2018,173. Butarque,Sin estudios,630
+2018,174. Los Rosales,Sin estudios,2.209
+2018,175. Los Ángeles,Sin estudios,1.886
+2018,181. Casco Histórico de Vallecas,Sin estudios,3.036
+2018,182. Santa Eugenia,Sin estudios,1.003
+2018,183. Ensanche de Vallecas,Sin estudios,606
+2018,191. Casco Histórico de Vicálvaro,Sin estudios,2.811
+2018,192. Valdebernardo,Sin estudios,495
+2018,193. Valderrivas,Sin estudios,160
+2018,194. El Cañaveral,Sin estudios,7
+2018,201. Simancas,Sin estudios,1.183
+2018,202. Hellín,Sin estudios,721
+2018,203. Amposta,Sin estudios,585
+2018,204. Arcos,Sin estudios,1.531
+2018,205. Rosas,Sin estudios,558
+2018,206. Rejas,Sin estudios,325
+2018,207. Canillejas,Sin estudios,1.404
+2018,208. Salvador,Sin estudios,198
+2018,211. Alameda de Osuna,Sin estudios,184
+2018,212. Aeropuerto,Sin estudios,108
+2018,213. Casco Histórico de Barajas,Sin estudios,403
+2018,214. Timón,Sin estudios,296
+2018,215. Corralejos,Sin estudios,101
+2018,011. Palacio,Enseñanza primaria incompleta,1.500
+2018,012. Embajadores,Enseñanza primaria incompleta,4.080
+2018,013. Cortes,Enseñanza primaria incompleta,630
+2018,014. Justicia,Enseñanza primaria incompleta,833
+2018,015. Universidad,Enseñanza primaria incompleta,1.999
+2018,016. Sol,Enseñanza primaria incompleta,449
+2018,021. Imperial,Enseñanza primaria incompleta,1.606
+2018,022. Acacias,Enseñanza primaria incompleta,2.582
+2018,023. Chopera,Enseñanza primaria incompleta,1.887
+2018,024. Legazpi,Enseñanza primaria incompleta,653
+2018,025. Delicias,Enseñanza primaria incompleta,1.767
+2018,026. Palos de Moguer,Enseñanza primaria incompleta,2.096
+2018,027. Atocha,Enseñanza primaria incompleta,62
+2018,031. Pacífico,Enseñanza primaria incompleta,2.144
+2018,032. Adelfas,Enseñanza primaria incompleta,1.166
+2018,033. Estrella,Enseñanza primaria incompleta,1.043
+2018,034. Ibiza,Enseñanza primaria incompleta,1.163
+2018,035. Jerónimos,Enseñanza primaria incompleta,272
+2018,036. Niño Jesús,Enseñanza primaria incompleta,480
+2018,041. Recoletos,Enseñanza primaria incompleta,418
+2018,042. Goya,Enseñanza primaria incompleta,1.250
+2018,043. Fuente del Berro,Enseñanza primaria incompleta,1.299
+2018,044. Guindalera,Enseñanza primaria incompleta,2.004
+2018,045. Lista,Enseñanza primaria incompleta,873
+2018,046. Castellana,Enseñanza primaria incompleta,547
+2018,051. El Viso,Enseñanza primaria incompleta,459
+2018,052. Prosperidad,Enseñanza primaria incompleta,1.854
+2018,053. Ciudad Jardín,Enseñanza primaria incompleta,981
+2018,054. Hispanoamérica,Enseñanza primaria incompleta,1.080
+2018,055. Nueva España,Enseñanza primaria incompleta,590
+2018,056. Castilla,Enseñanza primaria incompleta,680
+2018,061. Bellas Vistas,Enseñanza primaria incompleta,2.719
+2018,062. Cuatro Caminos,Enseñanza primaria incompleta,1.999
+2018,063. Castillejos,Enseñanza primaria incompleta,1.197
+2018,064. Almenara,Enseñanza primaria incompleta,2.851
+2018,065. Valdeacederas,Enseñanza primaria incompleta,2.761
+2018,066. Berruguete,Enseñanza primaria incompleta,2.503
+2018,071. Gaztambide,Enseñanza primaria incompleta,1.163
+2018,072. Arapiles,Enseñanza primaria incompleta,1.380
+2018,073. Trafalgar,Enseñanza primaria incompleta,1.303
+2018,074. Almagro,Enseñanza primaria incompleta,733
+2018,075. Ríos Rosas,Enseñanza primaria incompleta,1.292
+2018,076. Vallehermoso,Enseñanza primaria incompleta,725
+2018,081. El Pardo,Enseñanza primaria incompleta,421
+2018,082. Fuentelarreina,Enseñanza primaria incompleta,93
+2018,083. Peñagrande,Enseñanza primaria incompleta,3.780
+2018,084. Pilar,Enseñanza primaria incompleta,5.538
+2018,085. La Paz,Enseñanza primaria incompleta,1.949
+2018,086. Valverde,Enseñanza primaria incompleta,3.664
+2018,087. Mirasierra,Enseñanza primaria incompleta,854
+2018,088. El Goloso,Enseñanza primaria incompleta,509
+2018,091. Casa de Campo,Enseñanza primaria incompleta,968
+2018,092. Argüelles,Enseñanza primaria incompleta,1.122
+2018,093. Ciudad Universitaria,Enseñanza primaria incompleta,631
+2018,094. Valdezarza,Enseñanza primaria incompleta,3.108
+2018,095. Valdemarín,Enseñanza primaria incompleta,182
+2018,096. El Plantío,Enseñanza primaria incompleta,92
+2018,097. Aravaca,Enseñanza primaria incompleta,957
+2018,101. Los Cármenes,Enseñanza primaria incompleta,2.124
+2018,102. Puerta del Angel,Enseñanza primaria incompleta,5.154
+2018,103. Lucero,Enseñanza primaria incompleta,4.565
+2018,104. Aluche,Enseñanza primaria incompleta,9.625
+2018,105. Campamento,Enseñanza primaria incompleta,2.396
+2018,106. Cuatro Vientos,Enseñanza primaria incompleta,279
+2018,107. Las Águilas,Enseñanza primaria incompleta,7.727
+2018,111. Comillas,Enseñanza primaria incompleta,2.838
+2018,112. Opañel,Enseñanza primaria incompleta,4.131
+2018,113. San Isidro,Enseñanza primaria incompleta,5.386
+2018,114. Vista Alegre,Enseñanza primaria incompleta,6.408
+2018,115. Puerta Bonita,Enseñanza primaria incompleta,4.698
+2018,116. Buenavista,Enseñanza primaria incompleta,4.254
+2018,117. Abrantes,Enseñanza primaria incompleta,3.914
+2018,121. Orcasitas,Enseñanza primaria incompleta,3.196
+2018,122. Orcasur,Enseñanza primaria incompleta,1.919
+2018,123. San Fermín,Enseñanza primaria incompleta,2.990
+2018,124. Almendrales,Enseñanza primaria incompleta,3.099
+2018,125. Moscardó,Enseñanza primaria incompleta,3.693
+2018,126. Zofio,Enseñanza primaria incompleta,2.058
+2018,127. Pradolongo,Enseñanza primaria incompleta,3.024
+2018,131. Entrevías,Enseñanza primaria incompleta,5.737
+2018,132. San Diego,Enseñanza primaria incompleta,5.615
+2018,133. Palomeras Bajas,Enseñanza primaria incompleta,4.929
+2018,134. Palomeras Sureste,Enseñanza primaria incompleta,5.879
+2018,135. Portazgo,Enseñanza primaria incompleta,4.872
+2018,136. Numancia,Enseñanza primaria incompleta,6.970
+2018,141. Pavones,Enseñanza primaria incompleta,989
+2018,142. Horcajo,Enseñanza primaria incompleta,340
+2018,143. Marroquina,Enseñanza primaria incompleta,2.636
+2018,144. Media Legua,Enseñanza primaria incompleta,2.072
+2018,145. Fontarrón,Enseñanza primaria incompleta,2.378
+2018,146. Vinateros,Enseñanza primaria incompleta,2.299
+2018,151. Ventas,Enseñanza primaria incompleta,6.034
+2018,152. Pueblo Nuevo,Enseñanza primaria incompleta,7.624
+2018,153. Quintana,Enseñanza primaria incompleta,2.545
+2018,154. Concepción,Enseñanza primaria incompleta,1.762
+2018,155. San Pascual,Enseñanza primaria incompleta,1.597
+2018,156. San Juan Bautista,Enseñanza primaria incompleta,529
+2018,157. Colina,Enseñanza primaria incompleta,248
+2018,158. Atalaya,Enseñanza primaria incompleta,34
+2018,159. Costillares,Enseñanza primaria incompleta,618
+2018,161. Palomas,Enseñanza primaria incompleta,138
+2018,162. Piovera,Enseñanza primaria incompleta,325
+2018,163. Canillas,Enseñanza primaria incompleta,4.593
+2018,164. Pinar del Rey,Enseñanza primaria incompleta,6.374
+2018,165. Apóstol Santiago,Enseñanza primaria incompleta,1.272
+2018,166. Valdefuentes,Enseñanza primaria incompleta,1.177
+2018,"171. Villaverde Alto, C.H. Villaverde",Enseñanza primaria incompleta,6.233
+2018,172. San Cristóbal,Enseñanza primaria incompleta,2.338
+2018,173. Butarque,Enseñanza primaria incompleta,1.357
+2018,174. Los Rosales,Enseñanza primaria incompleta,4.664
+2018,175. Los Ángeles,Enseñanza primaria incompleta,4.919
+2018,181. Casco Histórico de Vallecas,Enseñanza primaria incompleta,5.513
+2018,182. Santa Eugenia,Enseñanza primaria incompleta,2.281
+2018,183. Ensanche de Vallecas,Enseñanza primaria incompleta,1.715
+2018,191. Casco Histórico de Vicálvaro,Enseñanza primaria incompleta,5.466
+2018,192. Valdebernardo,Enseñanza primaria incompleta,1.145
+2018,193. Valderrivas,Enseñanza primaria incompleta,552
+2018,194. El Cañaveral,Enseñanza primaria incompleta,52
+2018,201. Simancas,Enseñanza primaria incompleta,2.985
+2018,202. Hellín,Enseñanza primaria incompleta,1.542
+2018,203. Amposta,Enseñanza primaria incompleta,1.379
+2018,204. Arcos,Enseñanza primaria incompleta,3.096
+2018,205. Rosas,Enseñanza primaria incompleta,2.106
+2018,206. Rejas,Enseñanza primaria incompleta,826
+2018,207. Canillejas,Enseñanza primaria incompleta,3.928
+2018,208. Salvador,Enseñanza primaria incompleta,656
+2018,211. Alameda de Osuna,Enseñanza primaria incompleta,765
+2018,212. Aeropuerto,Enseñanza primaria incompleta,229
+2018,213. Casco Histórico de Barajas,Enseñanza primaria incompleta,825
+2018,214. Timón,Enseñanza primaria incompleta,614
+2018,215. Corralejos,Enseñanza primaria incompleta,206
+2018,011. Palacio,"Bachiller elemental, Graduado escolar, E.S.O.",3.037
+2018,012. Embajadores,"Bachiller elemental, Graduado escolar, E.S.O.",7.367
+2018,013. Cortes,"Bachiller elemental, Graduado escolar, E.S.O.",1.309
+2018,014. Justicia,"Bachiller elemental, Graduado escolar, E.S.O.",1.966
+2018,015. Universidad,"Bachiller elemental, Graduado escolar, E.S.O.",4.242
+2018,016. Sol,"Bachiller elemental, Graduado escolar, E.S.O.",1.059
+2018,021. Imperial,"Bachiller elemental, Graduado escolar, E.S.O.",2.806
+2018,022. Acacias,"Bachiller elemental, Graduado escolar, E.S.O.",4.474
+2018,023. Chopera,"Bachiller elemental, Graduado escolar, E.S.O.",3.917
+2018,024. Legazpi,"Bachiller elemental, Graduado escolar, E.S.O.",1.578
+2018,025. Delicias,"Bachiller elemental, Graduado escolar, E.S.O.",3.870
+2018,026. Palos de Moguer,"Bachiller elemental, Graduado escolar, E.S.O.",4.137
+2018,027. Atocha,"Bachiller elemental, Graduado escolar, E.S.O.",151
+2018,031. Pacífico,"Bachiller elemental, Graduado escolar, E.S.O.",4.257
+2018,032. Adelfas,"Bachiller elemental, Graduado escolar, E.S.O.",2.247
+2018,033. Estrella,"Bachiller elemental, Graduado escolar, E.S.O.",2.433
+2018,034. Ibiza,"Bachiller elemental, Graduado escolar, E.S.O.",2.517
+2018,035. Jerónimos,"Bachiller elemental, Graduado escolar, E.S.O.",720
+2018,036. Niño Jesús,"Bachiller elemental, Graduado escolar, E.S.O.",1.269
+2018,041. Recoletos,"Bachiller elemental, Graduado escolar, E.S.O.",1.304
+2018,042. Goya,"Bachiller elemental, Graduado escolar, E.S.O.",3.173
+2018,043. Fuente del Berro,"Bachiller elemental, Graduado escolar, E.S.O.",2.707
+2018,044. Guindalera,"Bachiller elemental, Graduado escolar, E.S.O.",4.603
+2018,045. Lista,"Bachiller elemental, Graduado escolar, E.S.O.",2.095
+2018,046. Castellana,"Bachiller elemental, Graduado escolar, E.S.O.",1.495
+2018,051. El Viso,"Bachiller elemental, Graduado escolar, E.S.O.",1.490
+2018,052. Prosperidad,"Bachiller elemental, Graduado escolar, E.S.O.",4.390
+2018,053. Ciudad Jardín,"Bachiller elemental, Graduado escolar, E.S.O.",2.398
+2018,054. Hispanoamérica,"Bachiller elemental, Graduado escolar, E.S.O.",2.767
+2018,055. Nueva España,"Bachiller elemental, Graduado escolar, E.S.O.",1.804
+2018,056. Castilla,"Bachiller elemental, Graduado escolar, E.S.O.",1.481
+2018,061. Bellas Vistas,"Bachiller elemental, Graduado escolar, E.S.O.",6.128
+2018,062. Cuatro Caminos,"Bachiller elemental, Graduado escolar, E.S.O.",4.962
+2018,063. Castillejos,"Bachiller elemental, Graduado escolar, E.S.O.",2.886
+2018,064. Almenara,"Bachiller elemental, Graduado escolar, E.S.O.",4.480
+2018,065. Valdeacederas,"Bachiller elemental, Graduado escolar, E.S.O.",5.694
+2018,066. Berruguete,"Bachiller elemental, Graduado escolar, E.S.O.",5.378
+2018,071. Gaztambide,"Bachiller elemental, Graduado escolar, E.S.O.",2.600
+2018,072. Arapiles,"Bachiller elemental, Graduado escolar, E.S.O.",2.960
+2018,073. Trafalgar,"Bachiller elemental, Graduado escolar, E.S.O.",2.761
+2018,074. Almagro,"Bachiller elemental, Graduado escolar, E.S.O.",2.156
+2018,075. Ríos Rosas,"Bachiller elemental, Graduado escolar, E.S.O.",3.103
+2018,076. Vallehermoso,"Bachiller elemental, Graduado escolar, E.S.O.",1.868
+2018,081. El Pardo,"Bachiller elemental, Graduado escolar, E.S.O.",775
+2018,082. Fuentelarreina,"Bachiller elemental, Graduado escolar, E.S.O.",251
+2018,083. Peñagrande,"Bachiller elemental, Graduado escolar, E.S.O.",7.017
+2018,084. Pilar,"Bachiller elemental, Graduado escolar, E.S.O.",9.141
+2018,085. La Paz,"Bachiller elemental, Graduado escolar, E.S.O.",4.065
+2018,086. Valverde,"Bachiller elemental, Graduado escolar, E.S.O.",7.564
+2018,087. Mirasierra,"Bachiller elemental, Graduado escolar, E.S.O.",2.091
+2018,088. El Goloso,"Bachiller elemental, Graduado escolar, E.S.O.",942
+2018,091. Casa de Campo,"Bachiller elemental, Graduado escolar, E.S.O.",1.710
+2018,092. Argüelles,"Bachiller elemental, Graduado escolar, E.S.O.",2.622
+2018,093. Ciudad Universitaria,"Bachiller elemental, Graduado escolar, E.S.O.",1.463
+2018,094. Valdezarza,"Bachiller elemental, Graduado escolar, E.S.O.",5.144
+2018,095. Valdemarín,"Bachiller elemental, Graduado escolar, E.S.O.",364
+2018,096. El Plantío,"Bachiller elemental, Graduado escolar, E.S.O.",199
+2018,097. Aravaca,"Bachiller elemental, Graduado escolar, E.S.O.",1.940
+2018,101. Los Cármenes,"Bachiller elemental, Graduado escolar, E.S.O.",3.454
+2018,102. Puerta del Angel,"Bachiller elemental, Graduado escolar, E.S.O.",8.831
+2018,103. Lucero,"Bachiller elemental, Graduado escolar, E.S.O.",7.487
+2018,104. Aluche,"Bachiller elemental, Graduado escolar, E.S.O.",14.739
+2018,105. Campamento,"Bachiller elemental, Graduado escolar, E.S.O.",4.002
+2018,106. Cuatro Vientos,"Bachiller elemental, Graduado escolar, E.S.O.",801
+2018,107. Las Águilas,"Bachiller elemental, Graduado escolar, E.S.O.",11.188
+2018,111. Comillas,"Bachiller elemental, Graduado escolar, E.S.O.",5.160
+2018,112. Opañel,"Bachiller elemental, Graduado escolar, E.S.O.",7.888
+2018,113. San Isidro,"Bachiller elemental, Graduado escolar, E.S.O.",9.105
+2018,114. Vista Alegre,"Bachiller elemental, Graduado escolar, E.S.O.",11.366
+2018,115. Puerta Bonita,"Bachiller elemental, Graduado escolar, E.S.O.",8.347
+2018,116. Buenavista,"Bachiller elemental, Graduado escolar, E.S.O.",8.793
+2018,117. Abrantes,"Bachiller elemental, Graduado escolar, E.S.O.",7.082
+2018,121. Orcasitas,"Bachiller elemental, Graduado escolar, E.S.O.",5.059
+2018,122. Orcasur,"Bachiller elemental, Graduado escolar, E.S.O.",3.203
+2018,123. San Fermín,"Bachiller elemental, Graduado escolar, E.S.O.",5.393
+2018,124. Almendrales,"Bachiller elemental, Graduado escolar, E.S.O.",5.448
+2018,125. Moscardó,"Bachiller elemental, Graduado escolar, E.S.O.",6.898
+2018,126. Zofio,"Bachiller elemental, Graduado escolar, E.S.O.",3.705
+2018,127. Pradolongo,"Bachiller elemental, Graduado escolar, E.S.O.",5.012
+2018,131. Entrevías,"Bachiller elemental, Graduado escolar, E.S.O.",8.677
+2018,132. San Diego,"Bachiller elemental, Graduado escolar, E.S.O.",10.911
+2018,133. Palomeras Bajas,"Bachiller elemental, Graduado escolar, E.S.O.",8.754
+2018,134. Palomeras Sureste,"Bachiller elemental, Graduado escolar, E.S.O.",10.116
+2018,135. Portazgo,"Bachiller elemental, Graduado escolar, E.S.O.",6.894
+2018,136. Numancia,"Bachiller elemental, Graduado escolar, E.S.O.",11.404
+2018,141. Pavones,"Bachiller elemental, Graduado escolar, E.S.O.",1.574
+2018,142. Horcajo,"Bachiller elemental, Graduado escolar, E.S.O.",713
+2018,143. Marroquina,"Bachiller elemental, Graduado escolar, E.S.O.",4.704
+2018,144. Media Legua,"Bachiller elemental, Graduado escolar, E.S.O.",3.254
+2018,145. Fontarrón,"Bachiller elemental, Graduado escolar, E.S.O.",3.746
+2018,146. Vinateros,"Bachiller elemental, Graduado escolar, E.S.O.",3.397
+2018,151. Ventas,"Bachiller elemental, Graduado escolar, E.S.O.",10.875
+2018,152. Pueblo Nuevo,"Bachiller elemental, Graduado escolar, E.S.O.",13.908
+2018,153. Quintana,"Bachiller elemental, Graduado escolar, E.S.O.",5.202
+2018,154. Concepción,"Bachiller elemental, Graduado escolar, E.S.O.",3.740
+2018,155. San Pascual,"Bachiller elemental, Graduado escolar, E.S.O.",2.702
+2018,156. San Juan Bautista,"Bachiller elemental, Graduado escolar, E.S.O.",1.094
+2018,157. Colina,"Bachiller elemental, Graduado escolar, E.S.O.",607
+2018,158. Atalaya,"Bachiller elemental, Graduado escolar, E.S.O.",147
+2018,159. Costillares,"Bachiller elemental, Graduado escolar, E.S.O.",1.663
+2018,161. Palomas,"Bachiller elemental, Graduado escolar, E.S.O.",428
+2018,162. Piovera,"Bachiller elemental, Graduado escolar, E.S.O.",959
+2018,163. Canillas,"Bachiller elemental, Graduado escolar, E.S.O.",6.813
+2018,164. Pinar del Rey,"Bachiller elemental, Graduado escolar, E.S.O.",10.745
+2018,165. Apóstol Santiago,"Bachiller elemental, Graduado escolar, E.S.O.",2.684
+2018,166. Valdefuentes,"Bachiller elemental, Graduado escolar, E.S.O.",3.491
+2018,"171. Villaverde Alto, C.H. Villaverde","Bachiller elemental, Graduado escolar, E.S.O.",10.785
+2018,172. San Cristóbal,"Bachiller elemental, Graduado escolar, E.S.O.",4.400
+2018,173. Butarque,"Bachiller elemental, Graduado escolar, E.S.O.",3.651
+2018,174. Los Rosales,"Bachiller elemental, Graduado escolar, E.S.O.",8.513
+2018,175. Los Ángeles,"Bachiller elemental, Graduado escolar, E.S.O.",7.254
+2018,181. Casco Histórico de Vallecas,"Bachiller elemental, Graduado escolar, E.S.O.",9.465
+2018,182. Santa Eugenia,"Bachiller elemental, Graduado escolar, E.S.O.",5.114
+2018,183. Ensanche de Vallecas,"Bachiller elemental, Graduado escolar, E.S.O.",6.017
+2018,191. Casco Histórico de Vicálvaro,"Bachiller elemental, Graduado escolar, E.S.O.",8.684
+2018,192. Valdebernardo,"Bachiller elemental, Graduado escolar, E.S.O.",2.565
+2018,193. Valderrivas,"Bachiller elemental, Graduado escolar, E.S.O.",1.957
+2018,194. El Cañaveral,"Bachiller elemental, Graduado escolar, E.S.O.",190
+2018,201. Simancas,"Bachiller elemental, Graduado escolar, E.S.O.",5.766
+2018,202. Hellín,"Bachiller elemental, Graduado escolar, E.S.O.",2.349
+2018,203. Amposta,"Bachiller elemental, Graduado escolar, E.S.O.",2.300
+2018,204. Arcos,"Bachiller elemental, Graduado escolar, E.S.O.",5.220
+2018,205. Rosas,"Bachiller elemental, Graduado escolar, E.S.O.",4.262
+2018,206. Rejas,"Bachiller elemental, Graduado escolar, E.S.O.",2.224
+2018,207. Canillejas,"Bachiller elemental, Graduado escolar, E.S.O.",6.622
+2018,208. Salvador,"Bachiller elemental, Graduado escolar, E.S.O.",1.372
+2018,211. Alameda de Osuna,"Bachiller elemental, Graduado escolar, E.S.O.",2.108
+2018,212. Aeropuerto,"Bachiller elemental, Graduado escolar, E.S.O.",441
+2018,213. Casco Histórico de Barajas,"Bachiller elemental, Graduado escolar, E.S.O.",1.701
+2018,214. Timón,"Bachiller elemental, Graduado escolar, E.S.O.",1.603
+2018,215. Corralejos,"Bachiller elemental, Graduado escolar, E.S.O.",427
+2018,011. Palacio,Formación Profesional Primer Grado,532
+2018,012. Embajadores,Formación Profesional Primer Grado,1.060
+2018,013. Cortes,Formación Profesional Primer Grado,203
+2018,014. Justicia,Formación Profesional Primer Grado,275
+2018,015. Universidad,Formación Profesional Primer Grado,699
+2018,016. Sol,Formación Profesional Primer Grado,153
+2018,021. Imperial,Formación Profesional Primer Grado,603
+2018,022. Acacias,Formación Profesional Primer Grado,851
+2018,023. Chopera,Formación Profesional Primer Grado,602
+2018,024. Legazpi,Formación Profesional Primer Grado,393
+2018,025. Delicias,Formación Profesional Primer Grado,628
+2018,026. Palos de Moguer,Formación Profesional Primer Grado,642
+2018,027. Atocha,Formación Profesional Primer Grado,51
+2018,031. Pacífico,Formación Profesional Primer Grado,648
+2018,032. Adelfas,Formación Profesional Primer Grado,390
+2018,033. Estrella,Formación Profesional Primer Grado,306
+2018,034. Ibiza,Formación Profesional Primer Grado,340
+2018,035. Jerónimos,Formación Profesional Primer Grado,90
+2018,036. Niño Jesús,Formación Profesional Primer Grado,155
+2018,041. Recoletos,Formación Profesional Primer Grado,140
+2018,042. Goya,Formación Profesional Primer Grado,404
+2018,043. Fuente del Berro,Formación Profesional Primer Grado,432
+2018,044. Guindalera,Formación Profesional Primer Grado,607
+2018,045. Lista,Formación Profesional Primer Grado,239
+2018,046. Castellana,Formación Profesional Primer Grado,173
+2018,051. El Viso,Formación Profesional Primer Grado,117
+2018,052. Prosperidad,Formación Profesional Primer Grado,606
+2018,053. Ciudad Jardín,Formación Profesional Primer Grado,309
+2018,054. Hispanoamérica,Formación Profesional Primer Grado,311
+2018,055. Nueva España,Formación Profesional Primer Grado,190
+2018,056. Castilla,Formación Profesional Primer Grado,226
+2018,061. Bellas Vistas,Formación Profesional Primer Grado,698
+2018,062. Cuatro Caminos,Formación Profesional Primer Grado,593
+2018,063. Castillejos,Formación Profesional Primer Grado,359
+2018,064. Almenara,Formación Profesional Primer Grado,782
+2018,065. Valdeacederas,Formación Profesional Primer Grado,848
+2018,066. Berruguete,Formación Profesional Primer Grado,751
+2018,071. Gaztambide,Formación Profesional Primer Grado,356
+2018,072. Arapiles,Formación Profesional Primer Grado,409
+2018,073. Trafalgar,Formación Profesional Primer Grado,420
+2018,074. Almagro,Formación Profesional Primer Grado,252
+2018,075. Ríos Rosas,Formación Profesional Primer Grado,433
+2018,076. Vallehermoso,Formación Profesional Primer Grado,232
+2018,081. El Pardo,Formación Profesional Primer Grado,95
+2018,082. Fuentelarreina,Formación Profesional Primer Grado,24
+2018,083. Peñagrande,Formación Profesional Primer Grado,1.382
+2018,084. Pilar,Formación Profesional Primer Grado,1.699
+2018,085. La Paz,Formación Profesional Primer Grado,704
+2018,086. Valverde,Formación Profesional Primer Grado,1.475
+2018,087. Mirasierra,Formación Profesional Primer Grado,446
+2018,088. El Goloso,Formación Profesional Primer Grado,260
+2018,091. Casa de Campo,Formación Profesional Primer Grado,285
+2018,092. Argüelles,Formación Profesional Primer Grado,341
+2018,093. Ciudad Universitaria,Formación Profesional Primer Grado,159
+2018,094. Valdezarza,Formación Profesional Primer Grado,998
+2018,095. Valdemarín,Formación Profesional Primer Grado,28
+2018,096. El Plantío,Formación Profesional Primer Grado,24
+2018,097. Aravaca,Formación Profesional Primer Grado,301
+2018,101. Los Cármenes,Formación Profesional Primer Grado,693
+2018,102. Puerta del Angel,Formación Profesional Primer Grado,1.454
+2018,103. Lucero,Formación Profesional Primer Grado,1.282
+2018,104. Aluche,Formación Profesional Primer Grado,2.579
+2018,105. Campamento,Formación Profesional Primer Grado,772
+2018,106. Cuatro Vientos,Formación Profesional Primer Grado,210
+2018,107. Las Águilas,Formación Profesional Primer Grado,2.549
+2018,111. Comillas,Formación Profesional Primer Grado,739
+2018,112. Opañel,Formación Profesional Primer Grado,1.224
+2018,113. San Isidro,Formación Profesional Primer Grado,1.409
+2018,114. Vista Alegre,Formación Profesional Primer Grado,1.719
+2018,115. Puerta Bonita,Formación Profesional Primer Grado,1.331
+2018,116. Buenavista,Formación Profesional Primer Grado,2.100
+2018,117. Abrantes,Formación Profesional Primer Grado,1.144
+2018,121. Orcasitas,Formación Profesional Primer Grado,1.072
+2018,122. Orcasur,Formación Profesional Primer Grado,546
+2018,123. San Fermín,Formación Profesional Primer Grado,977
+2018,124. Almendrales,Formación Profesional Primer Grado,769
+2018,125. Moscardó,Formación Profesional Primer Grado,940
+2018,126. Zofio,Formación Profesional Primer Grado,587
+2018,127. Pradolongo,Formación Profesional Primer Grado,569
+2018,131. Entrevías,Formación Profesional Primer Grado,1.583
+2018,132. San Diego,Formación Profesional Primer Grado,1.503
+2018,133. Palomeras Bajas,Formación Profesional Primer Grado,1.864
+2018,134. Palomeras Sureste,Formación Profesional Primer Grado,1.949
+2018,135. Portazgo,Formación Profesional Primer Grado,1.210
+2018,136. Numancia,Formación Profesional Primer Grado,1.888
+2018,141. Pavones,Formación Profesional Primer Grado,355
+2018,142. Horcajo,Formación Profesional Primer Grado,219
+2018,143. Marroquina,Formación Profesional Primer Grado,866
+2018,144. Media Legua,Formación Profesional Primer Grado,587
+2018,145. Fontarrón,Formación Profesional Primer Grado,717
+2018,146. Vinateros,Formación Profesional Primer Grado,724
+2018,151. Ventas,Formación Profesional Primer Grado,1.829
+2018,152. Pueblo Nuevo,Formación Profesional Primer Grado,2.410
+2018,153. Quintana,Formación Profesional Primer Grado,801
+2018,154. Concepción,Formación Profesional Primer Grado,552
+2018,155. San Pascual,Formación Profesional Primer Grado,460
+2018,156. San Juan Bautista,Formación Profesional Primer Grado,176
+2018,157. Colina,Formación Profesional Primer Grado,86
+2018,158. Atalaya,Formación Profesional Primer Grado,14
+2018,159. Costillares,Formación Profesional Primer Grado,219
+2018,161. Palomas,Formación Profesional Primer Grado,51
+2018,162. Piovera,Formación Profesional Primer Grado,169
+2018,163. Canillas,Formación Profesional Primer Grado,1.400
+2018,164. Pinar del Rey,Formación Profesional Primer Grado,2.003
+2018,165. Apóstol Santiago,Formación Profesional Primer Grado,499
+2018,166. Valdefuentes,Formación Profesional Primer Grado,881
+2018,"171. Villaverde Alto, C.H. Villaverde",Formación Profesional Primer Grado,2.041
+2018,172. San Cristóbal,Formación Profesional Primer Grado,454
+2018,173. Butarque,Formación Profesional Primer Grado,940
+2018,174. Los Rosales,Formación Profesional Primer Grado,1.786
+2018,175. Los Ángeles,Formación Profesional Primer Grado,1.405
+2018,181. Casco Histórico de Vallecas,Formación Profesional Primer Grado,1.960
+2018,182. Santa Eugenia,Formación Profesional Primer Grado,1.084
+2018,183. Ensanche de Vallecas,Formación Profesional Primer Grado,2.008
+2018,191. Casco Histórico de Vicálvaro,Formación Profesional Primer Grado,1.612
+2018,192. Valdebernardo,Formación Profesional Primer Grado,782
+2018,193. Valderrivas,Formación Profesional Primer Grado,757
+2018,194. El Cañaveral,Formación Profesional Primer Grado,55
+2018,201. Simancas,Formación Profesional Primer Grado,1.023
+2018,202. Hellín,Formación Profesional Primer Grado,442
+2018,203. Amposta,Formación Profesional Primer Grado,332
+2018,204. Arcos,Formación Profesional Primer Grado,1.046
+2018,205. Rosas,Formación Profesional Primer Grado,1.270
+2018,206. Rejas,Formación Profesional Primer Grado,460
+2018,207. Canillejas,Formación Profesional Primer Grado,1.205
+2018,208. Salvador,Formación Profesional Primer Grado,259
+2018,211. Alameda de Osuna,Formación Profesional Primer Grado,320
+2018,212. Aeropuerto,Formación Profesional Primer Grado,90
+2018,213. Casco Histórico de Barajas,Formación Profesional Primer Grado,356
+2018,214. Timón,Formación Profesional Primer Grado,419
+2018,215. Corralejos,Formación Profesional Primer Grado,88
+2018,011. Palacio,Formación Profesional Segundo Grado,564
+2018,012. Embajadores,Formación Profesional Segundo Grado,1.298
+2018,013. Cortes,Formación Profesional Segundo Grado,255
+2018,014. Justicia,Formación Profesional Segundo Grado,341
+2018,015. Universidad,Formación Profesional Segundo Grado,815
+2018,016. Sol,Formación Profesional Segundo Grado,176
+2018,021. Imperial,Formación Profesional Segundo Grado,726
+2018,022. Acacias,Formación Profesional Segundo Grado,1.083
+2018,023. Chopera,Formación Profesional Segundo Grado,668
+2018,024. Legazpi,Formación Profesional Segundo Grado,582
+2018,025. Delicias,Formación Profesional Segundo Grado,785
+2018,026. Palos de Moguer,Formación Profesional Segundo Grado,787
+2018,027. Atocha,Formación Profesional Segundo Grado,48
+2018,031. Pacífico,Formación Profesional Segundo Grado,874
+2018,032. Adelfas,Formación Profesional Segundo Grado,498
+2018,033. Estrella,Formación Profesional Segundo Grado,460
+2018,034. Ibiza,Formación Profesional Segundo Grado,404
+2018,035. Jerónimos,Formación Profesional Segundo Grado,132
+2018,036. Niño Jesús,Formación Profesional Segundo Grado,229
+2018,041. Recoletos,Formación Profesional Segundo Grado,172
+2018,042. Goya,Formación Profesional Segundo Grado,479
+2018,043. Fuente del Berro,Formación Profesional Segundo Grado,536
+2018,044. Guindalera,Formación Profesional Segundo Grado,859
+2018,045. Lista,Formación Profesional Segundo Grado,317
+2018,046. Castellana,Formación Profesional Segundo Grado,160
+2018,051. El Viso,Formación Profesional Segundo Grado,151
+2018,052. Prosperidad,Formación Profesional Segundo Grado,806
+2018,053. Ciudad Jardín,Formación Profesional Segundo Grado,408
+2018,054. Hispanoamérica,Formación Profesional Segundo Grado,408
+2018,055. Nueva España,Formación Profesional Segundo Grado,239
+2018,056. Castilla,Formación Profesional Segundo Grado,324
+2018,061. Bellas Vistas,Formación Profesional Segundo Grado,712
+2018,062. Cuatro Caminos,Formación Profesional Segundo Grado,720
+2018,063. Castillejos,Formación Profesional Segundo Grado,430
+2018,064. Almenara,Formación Profesional Segundo Grado,643
+2018,065. Valdeacederas,Formación Profesional Segundo Grado,791
+2018,066. Berruguete,Formación Profesional Segundo Grado,766
+2018,071. Gaztambide,Formación Profesional Segundo Grado,376
+2018,072. Arapiles,Formación Profesional Segundo Grado,481
+2018,073. Trafalgar,Formación Profesional Segundo Grado,454
+2018,074. Almagro,Formación Profesional Segundo Grado,246
+2018,075. Ríos Rosas,Formación Profesional Segundo Grado,463
+2018,076. Vallehermoso,Formación Profesional Segundo Grado,316
+2018,081. El Pardo,Formación Profesional Segundo Grado,99
+2018,082. Fuentelarreina,Formación Profesional Segundo Grado,23
+2018,083. Peñagrande,Formación Profesional Segundo Grado,1.352
+2018,084. Pilar,Formación Profesional Segundo Grado,1.617
+2018,085. La Paz,Formación Profesional Segundo Grado,888
+2018,086. Valverde,Formación Profesional Segundo Grado,1.752
+2018,087. Mirasierra,Formación Profesional Segundo Grado,640
+2018,088. El Goloso,Formación Profesional Segundo Grado,383
+2018,091. Casa de Campo,Formación Profesional Segundo Grado,340
+2018,092. Argüelles,Formación Profesional Segundo Grado,418
+2018,093. Ciudad Universitaria,Formación Profesional Segundo Grado,264
+2018,094. Valdezarza,Formación Profesional Segundo Grado,983
+2018,095. Valdemarín,Formación Profesional Segundo Grado,42
+2018,096. El Plantío,Formación Profesional Segundo Grado,18
+2018,097. Aravaca,Formación Profesional Segundo Grado,389
+2018,101. Los Cármenes,Formación Profesional Segundo Grado,548
+2018,102. Puerta del Angel,Formación Profesional Segundo Grado,1.332
+2018,103. Lucero,Formación Profesional Segundo Grado,1.156
+2018,104. Aluche,Formación Profesional Segundo Grado,2.470
+2018,105. Campamento,Formación Profesional Segundo Grado,723
+2018,106. Cuatro Vientos,Formación Profesional Segundo Grado,254
+2018,107. Las Águilas,Formación Profesional Segundo Grado,2.147
+2018,111. Comillas,Formación Profesional Segundo Grado,741
+2018,112. Opañel,Formación Profesional Segundo Grado,1.026
+2018,113. San Isidro,Formación Profesional Segundo Grado,1.149
+2018,114. Vista Alegre,Formación Profesional Segundo Grado,1.441
+2018,115. Puerta Bonita,Formación Profesional Segundo Grado,1.097
+2018,116. Buenavista,Formación Profesional Segundo Grado,2.238
+2018,117. Abrantes,Formación Profesional Segundo Grado,955
+2018,121. Orcasitas,Formación Profesional Segundo Grado,786
+2018,122. Orcasur,Formación Profesional Segundo Grado,305
+2018,123. San Fermín,Formación Profesional Segundo Grado,744
+2018,124. Almendrales,Formación Profesional Segundo Grado,515
+2018,125. Moscardó,Formación Profesional Segundo Grado,758
+2018,126. Zofio,Formación Profesional Segundo Grado,373
+2018,127. Pradolongo,Formación Profesional Segundo Grado,420
+2018,131. Entrevías,Formación Profesional Segundo Grado,778
+2018,132. San Diego,Formación Profesional Segundo Grado,1.026
+2018,133. Palomeras Bajas,Formación Profesional Segundo Grado,1.444
+2018,134. Palomeras Sureste,Formación Profesional Segundo Grado,1.346
+2018,135. Portazgo,Formación Profesional Segundo Grado,767
+2018,136. Numancia,Formación Profesional Segundo Grado,1.459
+2018,141. Pavones,Formación Profesional Segundo Grado,361
+2018,142. Horcajo,Formación Profesional Segundo Grado,260
+2018,143. Marroquina,Formación Profesional Segundo Grado,1.006
+2018,144. Media Legua,Formación Profesional Segundo Grado,601
+2018,145. Fontarrón,Formación Profesional Segundo Grado,597
+2018,146. Vinateros,Formación Profesional Segundo Grado,602
+2018,151. Ventas,Formación Profesional Segundo Grado,1.558
+2018,152. Pueblo Nuevo,Formación Profesional Segundo Grado,2.159
+2018,153. Quintana,Formación Profesional Segundo Grado,737
+2018,154. Concepción,Formación Profesional Segundo Grado,631
+2018,155. San Pascual,Formación Profesional Segundo Grado,510
+2018,156. San Juan Bautista,Formación Profesional Segundo Grado,244
+2018,157. Colina,Formación Profesional Segundo Grado,127
+2018,158. Atalaya,Formación Profesional Segundo Grado,24
+2018,159. Costillares,Formación Profesional Segundo Grado,311
+2018,161. Palomas,Formación Profesional Segundo Grado,94
+2018,162. Piovera,Formación Profesional Segundo Grado,247
+2018,163. Canillas,Formación Profesional Segundo Grado,1.492
+2018,164. Pinar del Rey,Formación Profesional Segundo Grado,1.834
+2018,165. Apóstol Santiago,Formación Profesional Segundo Grado,591
+2018,166. Valdefuentes,Formación Profesional Segundo Grado,1.416
+2018,"171. Villaverde Alto, C.H. Villaverde",Formación Profesional Segundo Grado,1.425
+2018,172. San Cristóbal,Formación Profesional Segundo Grado,258
+2018,173. Butarque,Formación Profesional Segundo Grado,845
+2018,174. Los Rosales,Formación Profesional Segundo Grado,1.332
+2018,175. Los Ángeles,Formación Profesional Segundo Grado,1.106
+2018,181. Casco Histórico de Vallecas,Formación Profesional Segundo Grado,1.305
+2018,182. Santa Eugenia,Formación Profesional Segundo Grado,1.014
+2018,183. Ensanche de Vallecas,Formación Profesional Segundo Grado,2.226
+2018,191. Casco Histórico de Vicálvaro,Formación Profesional Segundo Grado,1.086
+2018,192. Valdebernardo,Formación Profesional Segundo Grado,809
+2018,193. Valderrivas,Formación Profesional Segundo Grado,1.003
+2018,194. El Cañaveral,Formación Profesional Segundo Grado,80
+2018,201. Simancas,Formación Profesional Segundo Grado,889
+2018,202. Hellín,Formación Profesional Segundo Grado,278
+2018,203. Amposta,Formación Profesional Segundo Grado,211
+2018,204. Arcos,Formación Profesional Segundo Grado,896
+2018,205. Rosas,Formación Profesional Segundo Grado,1.569
+2018,206. Rejas,Formación Profesional Segundo Grado,561
+2018,207. Canillejas,Formación Profesional Segundo Grado,1.013
+2018,208. Salvador,Formación Profesional Segundo Grado,371
+2018,211. Alameda de Osuna,Formación Profesional Segundo Grado,582
+2018,212. Aeropuerto,Formación Profesional Segundo Grado,50
+2018,213. Casco Histórico de Barajas,Formación Profesional Segundo Grado,297
+2018,214. Timón,Formación Profesional Segundo Grado,457
+2018,215. Corralejos,Formación Profesional Segundo Grado,165
+2018,011. Palacio,"Bachiller superior, B.U.P.",3.056
+2018,012. Embajadores,"Bachiller superior, B.U.P.",5.720
+2018,013. Cortes,"Bachiller superior, B.U.P.",1.490
+2018,014. Justicia,"Bachiller superior, B.U.P.",2.205
+2018,015. Universidad,"Bachiller superior, B.U.P.",4.054
+2018,016. Sol,"Bachiller superior, B.U.P.",1.079
+2018,021. Imperial,"Bachiller superior, B.U.P.",3.033
+2018,022. Acacias,"Bachiller superior, B.U.P.",4.756
+2018,023. Chopera,"Bachiller superior, B.U.P.",2.741
+2018,024. Legazpi,"Bachiller superior, B.U.P.",2.002
+2018,025. Delicias,"Bachiller superior, B.U.P.",3.333
+2018,026. Palos de Moguer,"Bachiller superior, B.U.P.",3.321
+2018,027. Atocha,"Bachiller superior, B.U.P.",147
+2018,031. Pacífico,"Bachiller superior, B.U.P.",4.804
+2018,032. Adelfas,"Bachiller superior, B.U.P.",2.438
+2018,033. Estrella,"Bachiller superior, B.U.P.",3.152
+2018,034. Ibiza,"Bachiller superior, B.U.P.",2.889
+2018,035. Jerónimos,"Bachiller superior, B.U.P.",1.008
+2018,036. Niño Jesús,"Bachiller superior, B.U.P.",1.833
+2018,041. Recoletos,"Bachiller superior, B.U.P.",1.961
+2018,042. Goya,"Bachiller superior, B.U.P.",3.886
+2018,043. Fuente del Berro,"Bachiller superior, B.U.P.",2.877
+2018,044. Guindalera,"Bachiller superior, B.U.P.",5.770
+2018,045. Lista,"Bachiller superior, B.U.P.",2.804
+2018,046. Castellana,"Bachiller superior, B.U.P.",2.218
+2018,051. El Viso,"Bachiller superior, B.U.P.",2.082
+2018,052. Prosperidad,"Bachiller superior, B.U.P.",5.347
+2018,053. Ciudad Jardín,"Bachiller superior, B.U.P.",2.556
+2018,054. Hispanoamérica,"Bachiller superior, B.U.P.",3.986
+2018,055. Nueva España,"Bachiller superior, B.U.P.",2.777
+2018,056. Castilla,"Bachiller superior, B.U.P.",2.030
+2018,061. Bellas Vistas,"Bachiller superior, B.U.P.",3.544
+2018,062. Cuatro Caminos,"Bachiller superior, B.U.P.",4.277
+2018,063. Castillejos,"Bachiller superior, B.U.P.",2.652
+2018,064. Almenara,"Bachiller superior, B.U.P.",2.347
+2018,065. Valdeacederas,"Bachiller superior, B.U.P.",2.913
+2018,066. Berruguete,"Bachiller superior, B.U.P.",2.961
+2018,071. Gaztambide,"Bachiller superior, B.U.P.",2.816
+2018,072. Arapiles,"Bachiller superior, B.U.P.",2.994
+2018,073. Trafalgar,"Bachiller superior, B.U.P.",3.003
+2018,074. Almagro,"Bachiller superior, B.U.P.",2.362
+2018,075. Ríos Rosas,"Bachiller superior, B.U.P.",3.266
+2018,076. Vallehermoso,"Bachiller superior, B.U.P.",2.539
+2018,081. El Pardo,"Bachiller superior, B.U.P.",573
+2018,082. Fuentelarreina,"Bachiller superior, B.U.P.",380
+2018,083. Peñagrande,"Bachiller superior, B.U.P.",5.580
+2018,084. Pilar,"Bachiller superior, B.U.P.",5.722
+2018,085. La Paz,"Bachiller superior, B.U.P.",4.677
+2018,086. Valverde,"Bachiller superior, B.U.P.",5.756
+2018,087. Mirasierra,"Bachiller superior, B.U.P.",3.136
+2018,088. El Goloso,"Bachiller superior, B.U.P.",1.247
+2018,091. Casa de Campo,"Bachiller superior, B.U.P.",1.752
+2018,092. Argüelles,"Bachiller superior, B.U.P.",3.013
+2018,093. Ciudad Universitaria,"Bachiller superior, B.U.P.",1.740
+2018,094. Valdezarza,"Bachiller superior, B.U.P.",3.761
+2018,095. Valdemarín,"Bachiller superior, B.U.P.",449
+2018,096. El Plantío,"Bachiller superior, B.U.P.",314
+2018,097. Aravaca,"Bachiller superior, B.U.P.",2.470
+2018,101. Los Cármenes,"Bachiller superior, B.U.P.",1.965
+2018,102. Puerta del Angel,"Bachiller superior, B.U.P.",5.342
+2018,103. Lucero,"Bachiller superior, B.U.P.",4.451
+2018,104. Aluche,"Bachiller superior, B.U.P.",8.378
+2018,105. Campamento,"Bachiller superior, B.U.P.",2.463
+2018,106. Cuatro Vientos,"Bachiller superior, B.U.P.",691
+2018,107. Las Águilas,"Bachiller superior, B.U.P.",5.843
+2018,111. Comillas,"Bachiller superior, B.U.P.",2.996
+2018,112. Opañel,"Bachiller superior, B.U.P.",3.980
+2018,113. San Isidro,"Bachiller superior, B.U.P.",4.078
+2018,114. Vista Alegre,"Bachiller superior, B.U.P.",5.376
+2018,115. Puerta Bonita,"Bachiller superior, B.U.P.",3.483
+2018,116. Buenavista,"Bachiller superior, B.U.P.",4.983
+2018,117. Abrantes,"Bachiller superior, B.U.P.",3.205
+2018,121. Orcasitas,"Bachiller superior, B.U.P.",2.028
+2018,122. Orcasur,"Bachiller superior, B.U.P.",945
+2018,123. San Fermín,"Bachiller superior, B.U.P.",2.179
+2018,124. Almendrales,"Bachiller superior, B.U.P.",2.125
+2018,125. Moscardó,"Bachiller superior, B.U.P.",2.893
+2018,126. Zofio,"Bachiller superior, B.U.P.",1.360
+2018,127. Pradolongo,"Bachiller superior, B.U.P.",1.497
+2018,131. Entrevías,"Bachiller superior, B.U.P.",2.522
+2018,132. San Diego,"Bachiller superior, B.U.P.",4.246
+2018,133. Palomeras Bajas,"Bachiller superior, B.U.P.",4.558
+2018,134. Palomeras Sureste,"Bachiller superior, B.U.P.",4.078
+2018,135. Portazgo,"Bachiller superior, B.U.P.",2.521
+2018,136. Numancia,"Bachiller superior, B.U.P.",5.104
+2018,141. Pavones,"Bachiller superior, B.U.P.",1.182
+2018,142. Horcajo,"Bachiller superior, B.U.P.",666
+2018,143. Marroquina,"Bachiller superior, B.U.P.",3.860
+2018,144. Media Legua,"Bachiller superior, B.U.P.",2.282
+2018,145. Fontarrón,"Bachiller superior, B.U.P.",2.114
+2018,146. Vinateros,"Bachiller superior, B.U.P.",2.271
+2018,151. Ventas,"Bachiller superior, B.U.P.",6.268
+2018,152. Pueblo Nuevo,"Bachiller superior, B.U.P.",7.628
+2018,153. Quintana,"Bachiller superior, B.U.P.",3.367
+2018,154. Concepción,"Bachiller superior, B.U.P.",2.998
+2018,155. San Pascual,"Bachiller superior, B.U.P.",2.378
+2018,156. San Juan Bautista,"Bachiller superior, B.U.P.",1.467
+2018,157. Colina,"Bachiller superior, B.U.P.",759
+2018,158. Atalaya,"Bachiller superior, B.U.P.",198
+2018,159. Costillares,"Bachiller superior, B.U.P.",2.619
+2018,161. Palomas,"Bachiller superior, B.U.P.",814
+2018,162. Piovera,"Bachiller superior, B.U.P.",1.558
+2018,163. Canillas,"Bachiller superior, B.U.P.",5.511
+2018,164. Pinar del Rey,"Bachiller superior, B.U.P.",6.724
+2018,165. Apóstol Santiago,"Bachiller superior, B.U.P.",2.177
+2018,166. Valdefuentes,"Bachiller superior, B.U.P.",5.069
+2018,"171. Villaverde Alto, C.H. Villaverde","Bachiller superior, B.U.P.",4.193
+2018,172. San Cristóbal,"Bachiller superior, B.U.P.",1.197
+2018,173. Butarque,"Bachiller superior, B.U.P.",2.003
+2018,174. Los Rosales,"Bachiller superior, B.U.P.",3.979
+2018,175. Los Ángeles,"Bachiller superior, B.U.P.",3.489
+2018,181. Casco Histórico de Vallecas,"Bachiller superior, B.U.P.",3.462
+2018,182. Santa Eugenia,"Bachiller superior, B.U.P.",3.578
+2018,183. Ensanche de Vallecas,"Bachiller superior, B.U.P.",4.885
+2018,191. Casco Histórico de Vicálvaro,"Bachiller superior, B.U.P.",2.880
+2018,192. Valdebernardo,"Bachiller superior, B.U.P.",2.210
+2018,193. Valderrivas,"Bachiller superior, B.U.P.",2.003
+2018,194. El Cañaveral,"Bachiller superior, B.U.P.",107
+2018,201. Simancas,"Bachiller superior, B.U.P.",2.938
+2018,202. Hellín,"Bachiller superior, B.U.P.",902
+2018,203. Amposta,"Bachiller superior, B.U.P.",731
+2018,204. Arcos,"Bachiller superior, B.U.P.",2.373
+2018,205. Rosas,"Bachiller superior, B.U.P.",4.065
+2018,206. Rejas,"Bachiller superior, B.U.P.",1.922
+2018,207. Canillejas,"Bachiller superior, B.U.P.",3.244
+2018,208. Salvador,"Bachiller superior, B.U.P.",1.605
+2018,211. Alameda de Osuna,"Bachiller superior, B.U.P.",3.073
+2018,212. Aeropuerto,"Bachiller superior, B.U.P.",244
+2018,213. Casco Histórico de Barajas,"Bachiller superior, B.U.P.",1.059
+2018,214. Timón,"Bachiller superior, B.U.P.",1.448
+2018,215. Corralejos,"Bachiller superior, B.U.P.",700
+2018,011. Palacio,Otros titulados medios,366
+2018,012. Embajadores,Otros titulados medios,707
+2018,013. Cortes,Otros titulados medios,194
+2018,014. Justicia,Otros titulados medios,303
+2018,015. Universidad,Otros titulados medios,612
+2018,016. Sol,Otros titulados medios,155
+2018,021. Imperial,Otros titulados medios,318
+2018,022. Acacias,Otros titulados medios,462
+2018,023. Chopera,Otros titulados medios,268
+2018,024. Legazpi,Otros titulados medios,330
+2018,025. Delicias,Otros titulados medios,408
+2018,026. Palos de Moguer,Otros titulados medios,381
+2018,027. Atocha,Otros titulados medios,19
+2018,031. Pacífico,Otros titulados medios,526
+2018,032. Adelfas,Otros titulados medios,263
+2018,033. Estrella,Otros titulados medios,274
+2018,034. Ibiza,Otros titulados medios,294
+2018,035. Jerónimos,Otros titulados medios,93
+2018,036. Niño Jesús,Otros titulados medios,187
+2018,041. Recoletos,Otros titulados medios,222
+2018,042. Goya,Otros titulados medios,476
+2018,043. Fuente del Berro,Otros titulados medios,314
+2018,044. Guindalera,Otros titulados medios,632
+2018,045. Lista,Otros titulados medios,305
+2018,046. Castellana,Otros titulados medios,255
+2018,051. El Viso,Otros titulados medios,243
+2018,052. Prosperidad,Otros titulados medios,629
+2018,053. Ciudad Jardín,Otros titulados medios,263
+2018,054. Hispanoamérica,Otros titulados medios,503
+2018,055. Nueva España,Otros titulados medios,387
+2018,056. Castilla,Otros titulados medios,253
+2018,061. Bellas Vistas,Otros titulados medios,447
+2018,062. Cuatro Caminos,Otros titulados medios,534
+2018,063. Castillejos,Otros titulados medios,336
+2018,064. Almenara,Otros titulados medios,328
+2018,065. Valdeacederas,Otros titulados medios,395
+2018,066. Berruguete,Otros titulados medios,391
+2018,071. Gaztambide,Otros titulados medios,319
+2018,072. Arapiles,Otros titulados medios,344
+2018,073. Trafalgar,Otros titulados medios,356
+2018,074. Almagro,Otros titulados medios,324
+2018,075. Ríos Rosas,Otros titulados medios,346
+2018,076. Vallehermoso,Otros titulados medios,252
+2018,081. El Pardo,Otros titulados medios,57
+2018,082. Fuentelarreina,Otros titulados medios,44
+2018,083. Peñagrande,Otros titulados medios,577
+2018,084. Pilar,Otros titulados medios,649
+2018,085. La Paz,Otros titulados medios,414
+2018,086. Valverde,Otros titulados medios,1.099
+2018,087. Mirasierra,Otros titulados medios,375
+2018,088. El Goloso,Otros titulados medios,327
+2018,091. Casa de Campo,Otros titulados medios,187
+2018,092. Argüelles,Otros titulados medios,358
+2018,093. Ciudad Universitaria,Otros titulados medios,220
+2018,094. Valdezarza,Otros titulados medios,355
+2018,095. Valdemarín,Otros titulados medios,98
+2018,096. El Plantío,Otros titulados medios,45
+2018,097. Aravaca,Otros titulados medios,333
+2018,101. Los Cármenes,Otros titulados medios,215
+2018,102. Puerta del Angel,Otros titulados medios,568
+2018,103. Lucero,Otros titulados medios,424
+2018,104. Aluche,Otros titulados medios,707
+2018,105. Campamento,Otros titulados medios,244
+2018,106. Cuatro Vientos,Otros titulados medios,129
+2018,107. Las Águilas,Otros titulados medios,581
+2018,111. Comillas,Otros titulados medios,306
+2018,112. Opañel,Otros titulados medios,419
+2018,113. San Isidro,Otros titulados medios,481
+2018,114. Vista Alegre,Otros titulados medios,547
+2018,115. Puerta Bonita,Otros titulados medios,392
+2018,116. Buenavista,Otros titulados medios,713
+2018,117. Abrantes,Otros titulados medios,367
+2018,121. Orcasitas,Otros titulados medios,227
+2018,122. Orcasur,Otros titulados medios,150
+2018,123. San Fermín,Otros titulados medios,285
+2018,124. Almendrales,Otros titulados medios,259
+2018,125. Moscardó,Otros titulados medios,332
+2018,126. Zofio,Otros titulados medios,123
+2018,127. Pradolongo,Otros titulados medios,163
+2018,131. Entrevías,Otros titulados medios,246
+2018,132. San Diego,Otros titulados medios,497
+2018,133. Palomeras Bajas,Otros titulados medios,423
+2018,134. Palomeras Sureste,Otros titulados medios,425
+2018,135. Portazgo,Otros titulados medios,244
+2018,136. Numancia,Otros titulados medios,527
+2018,141. Pavones,Otros titulados medios,98
+2018,142. Horcajo,Otros titulados medios,84
+2018,143. Marroquina,Otros titulados medios,270
+2018,144. Media Legua,Otros titulados medios,206
+2018,145. Fontarrón,Otros titulados medios,246
+2018,146. Vinateros,Otros titulados medios,235
+2018,151. Ventas,Otros titulados medios,754
+2018,152. Pueblo Nuevo,Otros titulados medios,984
+2018,153. Quintana,Otros titulados medios,419
+2018,154. Concepción,Otros titulados medios,345
+2018,155. San Pascual,Otros titulados medios,277
+2018,156. San Juan Bautista,Otros titulados medios,165
+2018,157. Colina,Otros titulados medios,111
+2018,158. Atalaya,Otros titulados medios,29
+2018,159. Costillares,Otros titulados medios,334
+2018,161. Palomas,Otros titulados medios,112
+2018,162. Piovera,Otros titulados medios,175
+2018,163. Canillas,Otros titulados medios,524
+2018,164. Pinar del Rey,Otros titulados medios,760
+2018,165. Apóstol Santiago,Otros titulados medios,244
+2018,166. Valdefuentes,Otros titulados medios,1.278
+2018,"171. Villaverde Alto, C.H. Villaverde",Otros titulados medios,381
+2018,172. San Cristóbal,Otros titulados medios,97
+2018,173. Butarque,Otros titulados medios,305
+2018,174. Los Rosales,Otros titulados medios,341
+2018,175. Los Ángeles,Otros titulados medios,286
+2018,181. Casco Histórico de Vallecas,Otros titulados medios,408
+2018,182. Santa Eugenia,Otros titulados medios,265
+2018,183. Ensanche de Vallecas,Otros titulados medios,992
+2018,191. Casco Histórico de Vicálvaro,Otros titulados medios,301
+2018,192. Valdebernardo,Otros titulados medios,162
+2018,193. Valderrivas,Otros titulados medios,368
+2018,194. El Cañaveral,Otros titulados medios,20
+2018,201. Simancas,Otros titulados medios,482
+2018,202. Hellín,Otros titulados medios,98
+2018,203. Amposta,Otros titulados medios,73
+2018,204. Arcos,Otros titulados medios,298
+2018,205. Rosas,Otros titulados medios,413
+2018,206. Rejas,Otros titulados medios,386
+2018,207. Canillejas,Otros titulados medios,354
+2018,208. Salvador,Otros titulados medios,144
+2018,211. Alameda de Osuna,Otros titulados medios,345
+2018,212. Aeropuerto,Otros titulados medios,19
+2018,213. Casco Histórico de Barajas,Otros titulados medios,143
+2018,214. Timón,Otros titulados medios,234
+2018,215. Corralejos,Otros titulados medios,175
+2018,011. Palacio,Diplomado Escuela universitaria,1.298
+2018,012. Embajadores,Diplomado Escuela universitaria,2.201
+2018,013. Cortes,Diplomado Escuela universitaria,553
+2018,014. Justicia,Diplomado Escuela universitaria,904
+2018,015. Universidad,Diplomado Escuela universitaria,1.766
+2018,016. Sol,Diplomado Escuela universitaria,402
+2018,021. Imperial,Diplomado Escuela universitaria,1.469
+2018,022. Acacias,Diplomado Escuela universitaria,2.566
+2018,023. Chopera,Diplomado Escuela universitaria,1.070
+2018,024. Legazpi,Diplomado Escuela universitaria,1.268
+2018,025. Delicias,Diplomado Escuela universitaria,1.694
+2018,026. Palos de Moguer,Diplomado Escuela universitaria,1.510
+2018,027. Atocha,Diplomado Escuela universitaria,58
+2018,031. Pacífico,Diplomado Escuela universitaria,2.327
+2018,032. Adelfas,Diplomado Escuela universitaria,1.185
+2018,033. Estrella,Diplomado Escuela universitaria,1.618
+2018,034. Ibiza,Diplomado Escuela universitaria,1.266
+2018,035. Jerónimos,Diplomado Escuela universitaria,434
+2018,036. Niño Jesús,Diplomado Escuela universitaria,889
+2018,041. Recoletos,Diplomado Escuela universitaria,787
+2018,042. Goya,Diplomado Escuela universitaria,1.638
+2018,043. Fuente del Berro,Diplomado Escuela universitaria,1.326
+2018,044. Guindalera,Diplomado Escuela universitaria,2.561
+2018,045. Lista,Diplomado Escuela universitaria,1.155
+2018,046. Castellana,Diplomado Escuela universitaria,821
+2018,051. El Viso,Diplomado Escuela universitaria,802
+2018,052. Prosperidad,Diplomado Escuela universitaria,2.331
+2018,053. Ciudad Jardín,Diplomado Escuela universitaria,1.098
+2018,054. Hispanoamérica,Diplomado Escuela universitaria,1.763
+2018,055. Nueva España,Diplomado Escuela universitaria,1.189
+2018,056. Castilla,Diplomado Escuela universitaria,961
+2018,061. Bellas Vistas,Diplomado Escuela universitaria,1.251
+2018,062. Cuatro Caminos,Diplomado Escuela universitaria,1.789
+2018,063. Castillejos,Diplomado Escuela universitaria,1.098
+2018,064. Almenara,Diplomado Escuela universitaria,790
+2018,065. Valdeacederas,Diplomado Escuela universitaria,966
+2018,066. Berruguete,Diplomado Escuela universitaria,994
+2018,071. Gaztambide,Diplomado Escuela universitaria,1.289
+2018,072. Arapiles,Diplomado Escuela universitaria,1.325
+2018,073. Trafalgar,Diplomado Escuela universitaria,1.401
+2018,074. Almagro,Diplomado Escuela universitaria,1.156
+2018,075. Ríos Rosas,Diplomado Escuela universitaria,1.468
+2018,076. Vallehermoso,Diplomado Escuela universitaria,1.236
+2018,081. El Pardo,Diplomado Escuela universitaria,151
+2018,082. Fuentelarreina,Diplomado Escuela universitaria,152
+2018,083. Peñagrande,Diplomado Escuela universitaria,2.434
+2018,084. Pilar,Diplomado Escuela universitaria,2.372
+2018,085. La Paz,Diplomado Escuela universitaria,2.428
+2018,086. Valverde,Diplomado Escuela universitaria,2.912
+2018,087. Mirasierra,Diplomado Escuela universitaria,1.676
+2018,088. El Goloso,Diplomado Escuela universitaria,917
+2018,091. Casa de Campo,Diplomado Escuela universitaria,778
+2018,092. Argüelles,Diplomado Escuela universitaria,1.465
+2018,093. Ciudad Universitaria,Diplomado Escuela universitaria,922
+2018,094. Valdezarza,Diplomado Escuela universitaria,1.428
+2018,095. Valdemarín,Diplomado Escuela universitaria,264
+2018,096. El Plantío,Diplomado Escuela universitaria,128
+2018,097. Aravaca,Diplomado Escuela universitaria,1.297
+2018,101. Los Cármenes,Diplomado Escuela universitaria,640
+2018,102. Puerta del Angel,Diplomado Escuela universitaria,1.711
+2018,103. Lucero,Diplomado Escuela universitaria,1.469
+2018,104. Aluche,Diplomado Escuela universitaria,3.066
+2018,105. Campamento,Diplomado Escuela universitaria,855
+2018,106. Cuatro Vientos,Diplomado Escuela universitaria,387
+2018,107. Las Águilas,Diplomado Escuela universitaria,2.028
+2018,111. Comillas,Diplomado Escuela universitaria,967
+2018,112. Opañel,Diplomado Escuela universitaria,1.297
+2018,113. San Isidro,Diplomado Escuela universitaria,1.266
+2018,114. Vista Alegre,Diplomado Escuela universitaria,1.631
+2018,115. Puerta Bonita,Diplomado Escuela universitaria,990
+2018,116. Buenavista,Diplomado Escuela universitaria,2.041
+2018,117. Abrantes,Diplomado Escuela universitaria,966
+2018,121. Orcasitas,Diplomado Escuela universitaria,591
+2018,122. Orcasur,Diplomado Escuela universitaria,307
+2018,123. San Fermín,Diplomado Escuela universitaria,628
+2018,124. Almendrales,Diplomado Escuela universitaria,616
+2018,125. Moscardó,Diplomado Escuela universitaria,878
+2018,126. Zofio,Diplomado Escuela universitaria,317
+2018,127. Pradolongo,Diplomado Escuela universitaria,302
+2018,131. Entrevías,Diplomado Escuela universitaria,454
+2018,132. San Diego,Diplomado Escuela universitaria,895
+2018,133. Palomeras Bajas,Diplomado Escuela universitaria,1.336
+2018,134. Palomeras Sureste,Diplomado Escuela universitaria,996
+2018,135. Portazgo,Diplomado Escuela universitaria,580
+2018,136. Numancia,Diplomado Escuela universitaria,1.274
+2018,141. Pavones,Diplomado Escuela universitaria,404
+2018,142. Horcajo,Diplomado Escuela universitaria,346
+2018,143. Marroquina,Diplomado Escuela universitaria,1.616
+2018,144. Media Legua,Diplomado Escuela universitaria,899
+2018,145. Fontarrón,Diplomado Escuela universitaria,624
+2018,146. Vinateros,Diplomado Escuela universitaria,755
+2018,151. Ventas,Diplomado Escuela universitaria,1.934
+2018,152. Pueblo Nuevo,Diplomado Escuela universitaria,2.432
+2018,153. Quintana,Diplomado Escuela universitaria,1.186
+2018,154. Concepción,Diplomado Escuela universitaria,1.158
+2018,155. San Pascual,Diplomado Escuela universitaria,1.001
+2018,156. San Juan Bautista,Diplomado Escuela universitaria,671
+2018,157. Colina,Diplomado Escuela universitaria,410
+2018,158. Atalaya,Diplomado Escuela universitaria,102
+2018,159. Costillares,Diplomado Escuela universitaria,1.275
+2018,161. Palomas,Diplomado Escuela universitaria,339
+2018,162. Piovera,Diplomado Escuela universitaria,759
+2018,163. Canillas,Diplomado Escuela universitaria,1.946
+2018,164. Pinar del Rey,Diplomado Escuela universitaria,2.092
+2018,165. Apóstol Santiago,Diplomado Escuela universitaria,678
+2018,166. Valdefuentes,Diplomado Escuela universitaria,3.164
+2018,"171. Villaverde Alto, C.H. Villaverde",Diplomado Escuela universitaria,1.019
+2018,172. San Cristóbal,Diplomado Escuela universitaria,169
+2018,173. Butarque,Diplomado Escuela universitaria,663
+2018,174. Los Rosales,Diplomado Escuela universitaria,1.091
+2018,175. Los Ángeles,Diplomado Escuela universitaria,989
+2018,181. Casco Histórico de Vallecas,Diplomado Escuela universitaria,850
+2018,182. Santa Eugenia,Diplomado Escuela universitaria,1.157
+2018,183. Ensanche de Vallecas,Diplomado Escuela universitaria,2.682
+2018,191. Casco Histórico de Vicálvaro,Diplomado Escuela universitaria,746
+2018,192. Valdebernardo,Diplomado Escuela universitaria,931
+2018,193. Valderrivas,Diplomado Escuela universitaria,1.122
+2018,194. El Cañaveral,Diplomado Escuela universitaria,40
+2018,201. Simancas,Diplomado Escuela universitaria,963
+2018,202. Hellín,Diplomado Escuela universitaria,159
+2018,203. Amposta,Diplomado Escuela universitaria,144
+2018,204. Arcos,Diplomado Escuela universitaria,723
+2018,205. Rosas,Diplomado Escuela universitaria,1.725
+2018,206. Rejas,Diplomado Escuela universitaria,936
+2018,207. Canillejas,Diplomado Escuela universitaria,969
+2018,208. Salvador,Diplomado Escuela universitaria,665
+2018,211. Alameda de Osuna,Diplomado Escuela universitaria,1.378
+2018,212. Aeropuerto,Diplomado Escuela universitaria,46
+2018,213. Casco Histórico de Barajas,Diplomado Escuela universitaria,259
+2018,214. Timón,Diplomado Escuela universitaria,645
+2018,215. Corralejos,Diplomado Escuela universitaria,446
+2018,011. Palacio,Arquitecto o Ingeniero Técnico,343
+2018,012. Embajadores,Arquitecto o Ingeniero Técnico,568
+2018,013. Cortes,Arquitecto o Ingeniero Técnico,148
+2018,014. Justicia,Arquitecto o Ingeniero Técnico,194
+2018,015. Universidad,Arquitecto o Ingeniero Técnico,512
+2018,016. Sol,Arquitecto o Ingeniero Técnico,111
+2018,021. Imperial,Arquitecto o Ingeniero Técnico,520
+2018,022. Acacias,Arquitecto o Ingeniero Técnico,845
+2018,023. Chopera,Arquitecto o Ingeniero Técnico,335
+2018,024. Legazpi,Arquitecto o Ingeniero Técnico,538
+2018,025. Delicias,Arquitecto o Ingeniero Técnico,606
+2018,026. Palos de Moguer,Arquitecto o Ingeniero Técnico,515
+2018,027. Atocha,Arquitecto o Ingeniero Técnico,28
+2018,031. Pacífico,Arquitecto o Ingeniero Técnico,736
+2018,032. Adelfas,Arquitecto o Ingeniero Técnico,444
+2018,033. Estrella,Arquitecto o Ingeniero Técnico,633
+2018,034. Ibiza,Arquitecto o Ingeniero Técnico,390
+2018,035. Jerónimos,Arquitecto o Ingeniero Técnico,123
+2018,036. Niño Jesús,Arquitecto o Ingeniero Técnico,336
+2018,041. Recoletos,Arquitecto o Ingeniero Técnico,200
+2018,042. Goya,Arquitecto o Ingeniero Técnico,470
+2018,043. Fuente del Berro,Arquitecto o Ingeniero Técnico,437
+2018,044. Guindalera,Arquitecto o Ingeniero Técnico,860
+2018,045. Lista,Arquitecto o Ingeniero Técnico,336
+2018,046. Castellana,Arquitecto o Ingeniero Técnico,176
+2018,051. El Viso,Arquitecto o Ingeniero Técnico,194
+2018,052. Prosperidad,Arquitecto o Ingeniero Técnico,820
+2018,053. Ciudad Jardín,Arquitecto o Ingeniero Técnico,327
+2018,054. Hispanoamérica,Arquitecto o Ingeniero Técnico,526
+2018,055. Nueva España,Arquitecto o Ingeniero Técnico,318
+2018,056. Castilla,Arquitecto o Ingeniero Técnico,331
+2018,061. Bellas Vistas,Arquitecto o Ingeniero Técnico,420
+2018,062. Cuatro Caminos,Arquitecto o Ingeniero Técnico,620
+2018,063. Castillejos,Arquitecto o Ingeniero Técnico,407
+2018,064. Almenara,Arquitecto o Ingeniero Técnico,320
+2018,065. Valdeacederas,Arquitecto o Ingeniero Técnico,346
+2018,066. Berruguete,Arquitecto o Ingeniero Técnico,345
+2018,071. Gaztambide,Arquitecto o Ingeniero Técnico,392
+2018,072. Arapiles,Arquitecto o Ingeniero Técnico,403
+2018,073. Trafalgar,Arquitecto o Ingeniero Técnico,403
+2018,074. Almagro,Arquitecto o Ingeniero Técnico,231
+2018,075. Ríos Rosas,Arquitecto o Ingeniero Técnico,474
+2018,076. Vallehermoso,Arquitecto o Ingeniero Técnico,342
+2018,081. El Pardo,Arquitecto o Ingeniero Técnico,31
+2018,082. Fuentelarreina,Arquitecto o Ingeniero Técnico,35
+2018,083. Peñagrande,Arquitecto o Ingeniero Técnico,923
+2018,084. Pilar,Arquitecto o Ingeniero Técnico,721
+2018,085. La Paz,Arquitecto o Ingeniero Técnico,938
+2018,086. Valverde,Arquitecto o Ingeniero Técnico,1.152
+2018,087. Mirasierra,Arquitecto o Ingeniero Técnico,531
+2018,088. El Goloso,Arquitecto o Ingeniero Técnico,363
+2018,091. Casa de Campo,Arquitecto o Ingeniero Técnico,262
+2018,092. Argüelles,Arquitecto o Ingeniero Técnico,430
+2018,093. Ciudad Universitaria,Arquitecto o Ingeniero Técnico,284
+2018,094. Valdezarza,Arquitecto o Ingeniero Técnico,494
+2018,095. Valdemarín,Arquitecto o Ingeniero Técnico,78
+2018,096. El Plantío,Arquitecto o Ingeniero Técnico,39
+2018,097. Aravaca,Arquitecto o Ingeniero Técnico,421
+2018,101. Los Cármenes,Arquitecto o Ingeniero Técnico,176
+2018,102. Puerta del Angel,Arquitecto o Ingeniero Técnico,476
+2018,103. Lucero,Arquitecto o Ingeniero Técnico,436
+2018,104. Aluche,Arquitecto o Ingeniero Técnico,934
+2018,105. Campamento,Arquitecto o Ingeniero Técnico,269
+2018,106. Cuatro Vientos,Arquitecto o Ingeniero Técnico,114
+2018,107. Las Águilas,Arquitecto o Ingeniero Técnico,585
+2018,111. Comillas,Arquitecto o Ingeniero Técnico,255
+2018,112. Opañel,Arquitecto o Ingeniero Técnico,380
+2018,113. San Isidro,Arquitecto o Ingeniero Técnico,390
+2018,114. Vista Alegre,Arquitecto o Ingeniero Técnico,433
+2018,115. Puerta Bonita,Arquitecto o Ingeniero Técnico,202
+2018,116. Buenavista,Arquitecto o Ingeniero Técnico,663
+2018,117. Abrantes,Arquitecto o Ingeniero Técnico,320
+2018,121. Orcasitas,Arquitecto o Ingeniero Técnico,179
+2018,122. Orcasur,Arquitecto o Ingeniero Técnico,109
+2018,123. San Fermín,Arquitecto o Ingeniero Técnico,209
+2018,124. Almendrales,Arquitecto o Ingeniero Técnico,158
+2018,125. Moscardó,Arquitecto o Ingeniero Técnico,221
+2018,126. Zofio,Arquitecto o Ingeniero Técnico,72
+2018,127. Pradolongo,Arquitecto o Ingeniero Técnico,92
+2018,131. Entrevías,Arquitecto o Ingeniero Técnico,112
+2018,132. San Diego,Arquitecto o Ingeniero Técnico,235
+2018,133. Palomeras Bajas,Arquitecto o Ingeniero Técnico,317
+2018,134. Palomeras Sureste,Arquitecto o Ingeniero Técnico,321
+2018,135. Portazgo,Arquitecto o Ingeniero Técnico,165
+2018,136. Numancia,Arquitecto o Ingeniero Técnico,352
+2018,141. Pavones,Arquitecto o Ingeniero Técnico,145
+2018,142. Horcajo,Arquitecto o Ingeniero Técnico,130
+2018,143. Marroquina,Arquitecto o Ingeniero Técnico,542
+2018,144. Media Legua,Arquitecto o Ingeniero Técnico,284
+2018,145. Fontarrón,Arquitecto o Ingeniero Técnico,175
+2018,146. Vinateros,Arquitecto o Ingeniero Técnico,259
+2018,151. Ventas,Arquitecto o Ingeniero Técnico,592
+2018,152. Pueblo Nuevo,Arquitecto o Ingeniero Técnico,742
+2018,153. Quintana,Arquitecto o Ingeniero Técnico,376
+2018,154. Concepción,Arquitecto o Ingeniero Técnico,391
+2018,155. San Pascual,Arquitecto o Ingeniero Técnico,344
+2018,156. San Juan Bautista,Arquitecto o Ingeniero Técnico,264
+2018,157. Colina,Arquitecto o Ingeniero Técnico,158
+2018,158. Atalaya,Arquitecto o Ingeniero Técnico,17
+2018,159. Costillares,Arquitecto o Ingeniero Técnico,450
+2018,161. Palomas,Arquitecto o Ingeniero Técnico,143
+2018,162. Piovera,Arquitecto o Ingeniero Técnico,276
+2018,163. Canillas,Arquitecto o Ingeniero Técnico,731
+2018,164. Pinar del Rey,Arquitecto o Ingeniero Técnico,789
+2018,165. Apóstol Santiago,Arquitecto o Ingeniero Técnico,248
+2018,166. Valdefuentes,Arquitecto o Ingeniero Técnico,1.341
+2018,"171. Villaverde Alto, C.H. Villaverde",Arquitecto o Ingeniero Técnico,252
+2018,172. San Cristóbal,Arquitecto o Ingeniero Técnico,36
+2018,173. Butarque,Arquitecto o Ingeniero Técnico,231
+2018,174. Los Rosales,Arquitecto o Ingeniero Técnico,346
+2018,175. Los Ángeles,Arquitecto o Ingeniero Técnico,288
+2018,181. Casco Histórico de Vallecas,Arquitecto o Ingeniero Técnico,225
+2018,182. Santa Eugenia,Arquitecto o Ingeniero Técnico,411
+2018,183. Ensanche de Vallecas,Arquitecto o Ingeniero Técnico,1.001
+2018,191. Casco Histórico de Vicálvaro,Arquitecto o Ingeniero Técnico,187
+2018,192. Valdebernardo,Arquitecto o Ingeniero Técnico,295
+2018,193. Valderrivas,Arquitecto o Ingeniero Técnico,459
+2018,194. El Cañaveral,Arquitecto o Ingeniero Técnico,19
+2018,201. Simancas,Arquitecto o Ingeniero Técnico,396
+2018,202. Hellín,Arquitecto o Ingeniero Técnico,42
+2018,203. Amposta,Arquitecto o Ingeniero Técnico,39
+2018,204. Arcos,Arquitecto o Ingeniero Técnico,223
+2018,205. Rosas,Arquitecto o Ingeniero Técnico,657
+2018,206. Rejas,Arquitecto o Ingeniero Técnico,365
+2018,207. Canillejas,Arquitecto o Ingeniero Técnico,327
+2018,208. Salvador,Arquitecto o Ingeniero Técnico,223
+2018,211. Alameda de Osuna,Arquitecto o Ingeniero Técnico,591
+2018,212. Aeropuerto,Arquitecto o Ingeniero Técnico,2
+2018,213. Casco Histórico de Barajas,Arquitecto o Ingeniero Técnico,61
+2018,214. Timón,Arquitecto o Ingeniero Técnico,225
+2018,215. Corralejos,Arquitecto o Ingeniero Técnico,186
+2018,011. Palacio,Licenciado universitario,5.684
+2018,012. Embajadores,Licenciado universitario,9.211
+2018,013. Cortes,Licenciado universitario,2.933
+2018,014. Justicia,Licenciado universitario,4.832
+2018,015. Universidad,Licenciado universitario,7.847
+2018,016. Sol,Licenciado universitario,1.788
+2018,021. Imperial,Licenciado universitario,4.959
+2018,022. Acacias,Licenciado universitario,8.381
+2018,023. Chopera,Licenciado universitario,3.123
+2018,024. Legazpi,Licenciado universitario,4.665
+2018,025. Delicias,Licenciado universitario,5.706
+2018,026. Palos de Moguer,Licenciado universitario,5.308
+2018,027. Atocha,Licenciado universitario,179
+2018,031. Pacífico,Licenciado universitario,7.859
+2018,032. Adelfas,Licenciado universitario,4.207
+2018,033. Estrella,Licenciado universitario,6.411
+2018,034. Ibiza,Licenciado universitario,5.652
+2018,035. Jerónimos,Licenciado universitario,2.046
+2018,036. Niño Jesús,Licenciado universitario,4.641
+2018,041. Recoletos,Licenciado universitario,5.477
+2018,042. Goya,Licenciado universitario,8.714
+2018,043. Fuente del Berro,Licenciado universitario,5.063
+2018,044. Guindalera,Licenciado universitario,11.192
+2018,045. Lista,Licenciado universitario,6.287
+2018,046. Castellana,Licenciado universitario,5.672
+2018,051. El Viso,Licenciado universitario,5.559
+2018,052. Prosperidad,Licenciado universitario,9.446
+2018,053. Ciudad Jardín,Licenciado universitario,4.540
+2018,054. Hispanoamérica,Licenciado universitario,9.504
+2018,055. Nueva España,Licenciado universitario,8.022
+2018,056. Castilla,Licenciado universitario,4.991
+2018,061. Bellas Vistas,Licenciado universitario,4.383
+2018,062. Cuatro Caminos,Licenciado universitario,8.736
+2018,063. Castillejos,Licenciado universitario,5.381
+2018,064. Almenara,Licenciado universitario,2.876
+2018,065. Valdeacederas,Licenciado universitario,3.096
+2018,066. Berruguete,Licenciado universitario,3.261
+2018,071. Gaztambide,Licenciado universitario,6.423
+2018,072. Arapiles,Licenciado universitario,6.563
+2018,073. Trafalgar,Licenciado universitario,7.096
+2018,074. Almagro,Licenciado universitario,6.000
+2018,075. Ríos Rosas,Licenciado universitario,7.884
+2018,076. Vallehermoso,Licenciado universitario,6.139
+2018,081. El Pardo,Licenciado universitario,352
+2018,082. Fuentelarreina,Licenciado universitario,963
+2018,083. Peñagrande,Licenciado universitario,7.795
+2018,084. Pilar,Licenciado universitario,6.476
+2018,085. La Paz,Licenciado universitario,8.342
+2018,086. Valverde,Licenciado universitario,11.822
+2018,087. Mirasierra,Licenciado universitario,8.428
+2018,088. El Goloso,Licenciado universitario,4.364
+2018,091. Casa de Campo,Licenciado universitario,2.819
+2018,092. Argüelles,Licenciado universitario,6.943
+2018,093. Ciudad Universitaria,Licenciado universitario,4.606
+2018,094. Valdezarza,Licenciado universitario,4.396
+2018,095. Valdemarín,Licenciado universitario,1.833
+2018,096. El Plantío,Licenciado universitario,760
+2018,097. Aravaca,Licenciado universitario,6.722
+2018,101. Los Cármenes,Licenciado universitario,1.522
+2018,102. Puerta del Angel,Licenciado universitario,4.579
+2018,103. Lucero,Licenciado universitario,3.396
+2018,104. Aluche,Licenciado universitario,6.013
+2018,105. Campamento,Licenciado universitario,1.937
+2018,106. Cuatro Vientos,Licenciado universitario,765
+2018,107. Las Águilas,Licenciado universitario,4.043
+2018,111. Comillas,Licenciado universitario,2.324
+2018,112. Opañel,Licenciado universitario,2.994
+2018,113. San Isidro,Licenciado universitario,3.080
+2018,114. Vista Alegre,Licenciado universitario,3.343
+2018,115. Puerta Bonita,Licenciado universitario,2.141
+2018,116. Buenavista,Licenciado universitario,4.106
+2018,117. Abrantes,Licenciado universitario,2.120
+2018,121. Orcasitas,Licenciado universitario,1.072
+2018,122. Orcasur,Licenciado universitario,714
+2018,123. San Fermín,Licenciado universitario,1.307
+2018,124. Almendrales,Licenciado universitario,1.270
+2018,125. Moscardó,Licenciado universitario,1.807
+2018,126. Zofio,Licenciado universitario,722
+2018,127. Pradolongo,Licenciado universitario,703
+2018,131. Entrevías,Licenciado universitario,982
+2018,132. San Diego,Licenciado universitario,2.158
+2018,133. Palomeras Bajas,Licenciado universitario,2.824
+2018,134. Palomeras Sureste,Licenciado universitario,2.339
+2018,135. Portazgo,Licenciado universitario,1.242
+2018,136. Numancia,Licenciado universitario,3.019
+2018,141. Pavones,Licenciado universitario,921
+2018,142. Horcajo,Licenciado universitario,995
+2018,143. Marroquina,Licenciado universitario,4.080
+2018,144. Media Legua,Licenciado universitario,2.328
+2018,145. Fontarrón,Licenciado universitario,1.417
+2018,146. Vinateros,Licenciado universitario,1.791
+2018,151. Ventas,Licenciado universitario,4.788
+2018,152. Pueblo Nuevo,Licenciado universitario,5.676
+2018,153. Quintana,Licenciado universitario,3.079
+2018,154. Concepción,Licenciado universitario,3.436
+2018,155. San Pascual,Licenciado universitario,3.414
+2018,156. San Juan Bautista,Licenciado universitario,3.368
+2018,157. Colina,Licenciado universitario,1.639
+2018,158. Atalaya,Licenciado universitario,396
+2018,159. Costillares,Licenciado universitario,6.256
+2018,161. Palomas,Licenciado universitario,1.809
+2018,162. Piovera,Licenciado universitario,4.194
+2018,163. Canillas,Licenciado universitario,6.069
+2018,164. Pinar del Rey,Licenciado universitario,6.018
+2018,165. Apóstol Santiago,Licenciado universitario,2.092
+2018,166. Valdefuentes,Licenciado universitario,13.163
+2018,"171. Villaverde Alto, C.H. Villaverde",Licenciado universitario,2.047
+2018,172. San Cristóbal,Licenciado universitario,424
+2018,173. Butarque,Licenciado universitario,1.287
+2018,174. Los Rosales,Licenciado universitario,2.153
+2018,175. Los Ángeles,Licenciado universitario,1.915
+2018,181. Casco Histórico de Vallecas,Licenciado universitario,1.559
+2018,182. Santa Eugenia,Licenciado universitario,2.306
+2018,183. Ensanche de Vallecas,Licenciado universitario,6.106
+2018,191. Casco Histórico de Vicálvaro,Licenciado universitario,1.581
+2018,192. Valdebernardo,Licenciado universitario,2.203
+2018,193. Valderrivas,Licenciado universitario,2.557
+2018,194. El Cañaveral,Licenciado universitario,96
+2018,201. Simancas,Licenciado universitario,2.945
+2018,202. Hellín,Licenciado universitario,399
+2018,203. Amposta,Licenciado universitario,327
+2018,204. Arcos,Licenciado universitario,1.661
+2018,205. Rosas,Licenciado universitario,4.278
+2018,206. Rejas,Licenciado universitario,2.956
+2018,207. Canillejas,Licenciado universitario,2.535
+2018,208. Salvador,Licenciado universitario,2.337
+2018,211. Alameda de Osuna,Licenciado universitario,4.218
+2018,212. Aeropuerto,Licenciado universitario,84
+2018,213. Casco Histórico de Barajas,Licenciado universitario,604
+2018,214. Timón,Licenciado universitario,1.816
+2018,215. Corralejos,Licenciado universitario,1.818
+2018,011. Palacio,Titulado estudios superiores no universitarios,243
+2018,012. Embajadores,Titulado estudios superiores no universitarios,509
+2018,013. Cortes,Titulado estudios superiores no universitarios,127
+2018,014. Justicia,Titulado estudios superiores no universitarios,226
+2018,015. Universidad,Titulado estudios superiores no universitarios,400
+2018,016. Sol,Titulado estudios superiores no universitarios,95
+2018,021. Imperial,Titulado estudios superiores no universitarios,184
+2018,022. Acacias,Titulado estudios superiores no universitarios,218
+2018,023. Chopera,Titulado estudios superiores no universitarios,127
+2018,024. Legazpi,Titulado estudios superiores no universitarios,157
+2018,025. Delicias,Titulado estudios superiores no universitarios,204
+2018,026. Palos de Moguer,Titulado estudios superiores no universitarios,222
+2018,027. Atocha,Titulado estudios superiores no universitarios,7
+2018,031. Pacífico,Titulado estudios superiores no universitarios,248
+2018,032. Adelfas,Titulado estudios superiores no universitarios,107
+2018,033. Estrella,Titulado estudios superiores no universitarios,126
+2018,034. Ibiza,Titulado estudios superiores no universitarios,187
+2018,035. Jerónimos,Titulado estudios superiores no universitarios,70
+2018,036. Niño Jesús,Titulado estudios superiores no universitarios,89
+2018,041. Recoletos,Titulado estudios superiores no universitarios,123
+2018,042. Goya,Titulado estudios superiores no universitarios,248
+2018,043. Fuente del Berro,Titulado estudios superiores no universitarios,148
+2018,044. Guindalera,Titulado estudios superiores no universitarios,279
+2018,045. Lista,Titulado estudios superiores no universitarios,164
+2018,046. Castellana,Titulado estudios superiores no universitarios,132
+2018,051. El Viso,Titulado estudios superiores no universitarios,145
+2018,052. Prosperidad,Titulado estudios superiores no universitarios,257
+2018,053. Ciudad Jardín,Titulado estudios superiores no universitarios,122
+2018,054. Hispanoamérica,Titulado estudios superiores no universitarios,232
+2018,055. Nueva España,Titulado estudios superiores no universitarios,177
+2018,056. Castilla,Titulado estudios superiores no universitarios,101
+2018,061. Bellas Vistas,Titulado estudios superiores no universitarios,192
+2018,062. Cuatro Caminos,Titulado estudios superiores no universitarios,249
+2018,063. Castillejos,Titulado estudios superiores no universitarios,148
+2018,064. Almenara,Titulado estudios superiores no universitarios,147
+2018,065. Valdeacederas,Titulado estudios superiores no universitarios,151
+2018,066. Berruguete,Titulado estudios superiores no universitarios,161
+2018,071. Gaztambide,Titulado estudios superiores no universitarios,174
+2018,072. Arapiles,Titulado estudios superiores no universitarios,174
+2018,073. Trafalgar,Titulado estudios superiores no universitarios,225
+2018,074. Almagro,Titulado estudios superiores no universitarios,176
+2018,075. Ríos Rosas,Titulado estudios superiores no universitarios,214
+2018,076. Vallehermoso,Titulado estudios superiores no universitarios,159
+2018,081. El Pardo,Titulado estudios superiores no universitarios,15
+2018,082. Fuentelarreina,Titulado estudios superiores no universitarios,18
+2018,083. Peñagrande,Titulado estudios superiores no universitarios,198
+2018,084. Pilar,Titulado estudios superiores no universitarios,221
+2018,085. La Paz,Titulado estudios superiores no universitarios,202
+2018,086. Valverde,Titulado estudios superiores no universitarios,416
+2018,087. Mirasierra,Titulado estudios superiores no universitarios,179
+2018,088. El Goloso,Titulado estudios superiores no universitarios,164
+2018,091. Casa de Campo,Titulado estudios superiores no universitarios,89
+2018,092. Argüelles,Titulado estudios superiores no universitarios,223
+2018,093. Ciudad Universitaria,Titulado estudios superiores no universitarios,100
+2018,094. Valdezarza,Titulado estudios superiores no universitarios,146
+2018,095. Valdemarín,Titulado estudios superiores no universitarios,55
+2018,096. El Plantío,Titulado estudios superiores no universitarios,25
+2018,097. Aravaca,Titulado estudios superiores no universitarios,184
+2018,101. Los Cármenes,Titulado estudios superiores no universitarios,85
+2018,102. Puerta del Angel,Titulado estudios superiores no universitarios,254
+2018,103. Lucero,Titulado estudios superiores no universitarios,178
+2018,104. Aluche,Titulado estudios superiores no universitarios,273
+2018,105. Campamento,Titulado estudios superiores no universitarios,115
+2018,106. Cuatro Vientos,Titulado estudios superiores no universitarios,43
+2018,107. Las Águilas,Titulado estudios superiores no universitarios,227
+2018,111. Comillas,Titulado estudios superiores no universitarios,118
+2018,112. Opañel,Titulado estudios superiores no universitarios,140
+2018,113. San Isidro,Titulado estudios superiores no universitarios,180
+2018,114. Vista Alegre,Titulado estudios superiores no universitarios,154
+2018,115. Puerta Bonita,Titulado estudios superiores no universitarios,142
+2018,116. Buenavista,Titulado estudios superiores no universitarios,240
+2018,117. Abrantes,Titulado estudios superiores no universitarios,106
+2018,121. Orcasitas,Titulado estudios superiores no universitarios,82
+2018,122. Orcasur,Titulado estudios superiores no universitarios,62
+2018,123. San Fermín,Titulado estudios superiores no universitarios,89
+2018,124. Almendrales,Titulado estudios superiores no universitarios,90
+2018,125. Moscardó,Titulado estudios superiores no universitarios,116
+2018,126. Zofio,Titulado estudios superiores no universitarios,42
+2018,127. Pradolongo,Titulado estudios superiores no universitarios,63
+2018,131. Entrevías,Titulado estudios superiores no universitarios,71
+2018,132. San Diego,Titulado estudios superiores no universitarios,155
+2018,133. Palomeras Bajas,Titulado estudios superiores no universitarios,119
+2018,134. Palomeras Sureste,Titulado estudios superiores no universitarios,138
+2018,135. Portazgo,Titulado estudios superiores no universitarios,100
+2018,136. Numancia,Titulado estudios superiores no universitarios,186
+2018,141. Pavones,Titulado estudios superiores no universitarios,37
+2018,142. Horcajo,Titulado estudios superiores no universitarios,32
+2018,143. Marroquina,Titulado estudios superiores no universitarios,119
+2018,144. Media Legua,Titulado estudios superiores no universitarios,95
+2018,145. Fontarrón,Titulado estudios superiores no universitarios,90
+2018,146. Vinateros,Titulado estudios superiores no universitarios,96
+2018,151. Ventas,Titulado estudios superiores no universitarios,283
+2018,152. Pueblo Nuevo,Titulado estudios superiores no universitarios,337
+2018,153. Quintana,Titulado estudios superiores no universitarios,175
+2018,154. Concepción,Titulado estudios superiores no universitarios,160
+2018,155. San Pascual,Titulado estudios superiores no universitarios,109
+2018,156. San Juan Bautista,Titulado estudios superiores no universitarios,63
+2018,157. Colina,Titulado estudios superiores no universitarios,50
+2018,158. Atalaya,Titulado estudios superiores no universitarios,12
+2018,159. Costillares,Titulado estudios superiores no universitarios,189
+2018,161. Palomas,Titulado estudios superiores no universitarios,63
+2018,162. Piovera,Titulado estudios superiores no universitarios,101
+2018,163. Canillas,Titulado estudios superiores no universitarios,224
+2018,164. Pinar del Rey,Titulado estudios superiores no universitarios,288
+2018,165. Apóstol Santiago,Titulado estudios superiores no universitarios,114
+2018,166. Valdefuentes,Titulado estudios superiores no universitarios,478
+2018,"171. Villaverde Alto, C.H. Villaverde",Titulado estudios superiores no universitarios,137
+2018,172. San Cristóbal,Titulado estudios superiores no universitarios,28
+2018,173. Butarque,Titulado estudios superiores no universitarios,109
+2018,174. Los Rosales,Titulado estudios superiores no universitarios,122
+2018,175. Los Ángeles,Titulado estudios superiores no universitarios,94
+2018,181. Casco Histórico de Vallecas,Titulado estudios superiores no universitarios,177
+2018,182. Santa Eugenia,Titulado estudios superiores no universitarios,138
+2018,183. Ensanche de Vallecas,Titulado estudios superiores no universitarios,559
+2018,191. Casco Histórico de Vicálvaro,Titulado estudios superiores no universitarios,128
+2018,192. Valdebernardo,Titulado estudios superiores no universitarios,63
+2018,193. Valderrivas,Titulado estudios superiores no universitarios,126
+2018,194. El Cañaveral,Titulado estudios superiores no universitarios,4
+2018,201. Simancas,Titulado estudios superiores no universitarios,162
+2018,202. Hellín,Titulado estudios superiores no universitarios,22
+2018,203. Amposta,Titulado estudios superiores no universitarios,20
+2018,204. Arcos,Titulado estudios superiores no universitarios,115
+2018,205. Rosas,Titulado estudios superiores no universitarios,150
+2018,206. Rejas,Titulado estudios superiores no universitarios,183
+2018,207. Canillejas,Titulado estudios superiores no universitarios,149
+2018,208. Salvador,Titulado estudios superiores no universitarios,70
+2018,211. Alameda de Osuna,Titulado estudios superiores no universitarios,143
+2018,212. Aeropuerto,Titulado estudios superiores no universitarios,7
+2018,213. Casco Histórico de Barajas,Titulado estudios superiores no universitarios,43
+2018,214. Timón,Titulado estudios superiores no universitarios,105
+2018,215. Corralejos,Titulado estudios superiores no universitarios,83
+2018,011. Palacio,Doctorado o Estudios postgraduados,1.958
+2018,012. Embajadores,Doctorado o Estudios postgraduados,3.286
+2018,013. Cortes,Doctorado o Estudios postgraduados,1.100
+2018,014. Justicia,Doctorado o Estudios postgraduados,1.711
+2018,015. Universidad,Doctorado o Estudios postgraduados,2.784
+2018,016. Sol,Doctorado o Estudios postgraduados,604
+2018,021. Imperial,Doctorado o Estudios postgraduados,1.556
+2018,022. Acacias,Doctorado o Estudios postgraduados,2.626
+2018,023. Chopera,Doctorado o Estudios postgraduados,932
+2018,024. Legazpi,Doctorado o Estudios postgraduados,1.547
+2018,025. Delicias,Doctorado o Estudios postgraduados,1.839
+2018,026. Palos de Moguer,Doctorado o Estudios postgraduados,1.842
+2018,027. Atocha,Doctorado o Estudios postgraduados,30
+2018,031. Pacífico,Doctorado o Estudios postgraduados,2.372
+2018,032. Adelfas,Doctorado o Estudios postgraduados,1.210
+2018,033. Estrella,Doctorado o Estudios postgraduados,1.762
+2018,034. Ibiza,Doctorado o Estudios postgraduados,1.829
+2018,035. Jerónimos,Doctorado o Estudios postgraduados,689
+2018,036. Niño Jesús,Doctorado o Estudios postgraduados,1.450
+2018,041. Recoletos,Doctorado o Estudios postgraduados,1.640
+2018,042. Goya,Doctorado o Estudios postgraduados,2.904
+2018,043. Fuente del Berro,Doctorado o Estudios postgraduados,1.511
+2018,044. Guindalera,Doctorado o Estudios postgraduados,3.343
+2018,045. Lista,Doctorado o Estudios postgraduados,1.994
+2018,046. Castellana,Doctorado o Estudios postgraduados,1.591
+2018,051. El Viso,Doctorado o Estudios postgraduados,1.630
+2018,052. Prosperidad,Doctorado o Estudios postgraduados,2.731
+2018,053. Ciudad Jardín,Doctorado o Estudios postgraduados,1.543
+2018,054. Hispanoamérica,Doctorado o Estudios postgraduados,2.858
+2018,055. Nueva España,Doctorado o Estudios postgraduados,2.369
+2018,056. Castilla,Doctorado o Estudios postgraduados,1.534
+2018,061. Bellas Vistas,Doctorado o Estudios postgraduados,1.393
+2018,062. Cuatro Caminos,Doctorado o Estudios postgraduados,2.737
+2018,063. Castillejos,Doctorado o Estudios postgraduados,1.691
+2018,064. Almenara,Doctorado o Estudios postgraduados,907
+2018,065. Valdeacederas,Doctorado o Estudios postgraduados,908
+2018,066. Berruguete,Doctorado o Estudios postgraduados,970
+2018,071. Gaztambide,Doctorado o Estudios postgraduados,2.334
+2018,072. Arapiles,Doctorado o Estudios postgraduados,2.398
+2018,073. Trafalgar,Doctorado o Estudios postgraduados,2.434
+2018,074. Almagro,Doctorado o Estudios postgraduados,1.952
+2018,075. Ríos Rosas,Doctorado o Estudios postgraduados,2.696
+2018,076. Vallehermoso,Doctorado o Estudios postgraduados,2.153
+2018,081. El Pardo,Doctorado o Estudios postgraduados,89
+2018,082. Fuentelarreina,Doctorado o Estudios postgraduados,327
+2018,083. Peñagrande,Doctorado o Estudios postgraduados,2.266
+2018,084. Pilar,Doctorado o Estudios postgraduados,1.777
+2018,085. La Paz,Doctorado o Estudios postgraduados,2.595
+2018,086. Valverde,Doctorado o Estudios postgraduados,3.103
+2018,087. Mirasierra,Doctorado o Estudios postgraduados,2.674
+2018,088. El Goloso,Doctorado o Estudios postgraduados,1.243
+2018,091. Casa de Campo,Doctorado o Estudios postgraduados,1.013
+2018,092. Argüelles,Doctorado o Estudios postgraduados,2.354
+2018,093. Ciudad Universitaria,Doctorado o Estudios postgraduados,1.886
+2018,094. Valdezarza,Doctorado o Estudios postgraduados,1.327
+2018,095. Valdemarín,Doctorado o Estudios postgraduados,619
+2018,096. El Plantío,Doctorado o Estudios postgraduados,250
+2018,097. Aravaca,Doctorado o Estudios postgraduados,2.061
+2018,101. Los Cármenes,Doctorado o Estudios postgraduados,378
+2018,102. Puerta del Angel,Doctorado o Estudios postgraduados,1.220
+2018,103. Lucero,Doctorado o Estudios postgraduados,789
+2018,104. Aluche,Doctorado o Estudios postgraduados,1.342
+2018,105. Campamento,Doctorado o Estudios postgraduados,468
+2018,106. Cuatro Vientos,Doctorado o Estudios postgraduados,165
+2018,107. Las Águilas,Doctorado o Estudios postgraduados,872
+2018,111. Comillas,Doctorado o Estudios postgraduados,592
+2018,112. Opañel,Doctorado o Estudios postgraduados,670
+2018,113. San Isidro,Doctorado o Estudios postgraduados,729
+2018,114. Vista Alegre,Doctorado o Estudios postgraduados,643
+2018,115. Puerta Bonita,Doctorado o Estudios postgraduados,406
+2018,116. Buenavista,Doctorado o Estudios postgraduados,806
+2018,117. Abrantes,Doctorado o Estudios postgraduados,396
+2018,121. Orcasitas,Doctorado o Estudios postgraduados,223
+2018,122. Orcasur,Doctorado o Estudios postgraduados,169
+2018,123. San Fermín,Doctorado o Estudios postgraduados,257
+2018,124. Almendrales,Doctorado o Estudios postgraduados,290
+2018,125. Moscardó,Doctorado o Estudios postgraduados,415
+2018,126. Zofio,Doctorado o Estudios postgraduados,155
+2018,127. Pradolongo,Doctorado o Estudios postgraduados,128
+2018,131. Entrevías,Doctorado o Estudios postgraduados,201
+2018,132. San Diego,Doctorado o Estudios postgraduados,443
+2018,133. Palomeras Bajas,Doctorado o Estudios postgraduados,585
+2018,134. Palomeras Sureste,Doctorado o Estudios postgraduados,444
+2018,135. Portazgo,Doctorado o Estudios postgraduados,231
+2018,136. Numancia,Doctorado o Estudios postgraduados,636
+2018,141. Pavones,Doctorado o Estudios postgraduados,211
+2018,142. Horcajo,Doctorado o Estudios postgraduados,238
+2018,143. Marroquina,Doctorado o Estudios postgraduados,961
+2018,144. Media Legua,Doctorado o Estudios postgraduados,569
+2018,145. Fontarrón,Doctorado o Estudios postgraduados,281
+2018,146. Vinateros,Doctorado o Estudios postgraduados,357
+2018,151. Ventas,Doctorado o Estudios postgraduados,1.162
+2018,152. Pueblo Nuevo,Doctorado o Estudios postgraduados,1.315
+2018,153. Quintana,Doctorado o Estudios postgraduados,802
+2018,154. Concepción,Doctorado o Estudios postgraduados,946
+2018,155. San Pascual,Doctorado o Estudios postgraduados,890
+2018,156. San Juan Bautista,Doctorado o Estudios postgraduados,1.038
+2018,157. Colina,Doctorado o Estudios postgraduados,535
+2018,158. Atalaya,Doctorado o Estudios postgraduados,146
+2018,159. Costillares,Doctorado o Estudios postgraduados,1.802
+2018,161. Palomas,Doctorado o Estudios postgraduados,525
+2018,162. Piovera,Doctorado o Estudios postgraduados,1.294
+2018,163. Canillas,Doctorado o Estudios postgraduados,1.560
+2018,164. Pinar del Rey,Doctorado o Estudios postgraduados,1.458
+2018,165. Apóstol Santiago,Doctorado o Estudios postgraduados,525
+2018,166. Valdefuentes,Doctorado o Estudios postgraduados,3.451
+2018,"171. Villaverde Alto, C.H. Villaverde",Doctorado o Estudios postgraduados,362
+2018,172. San Cristóbal,Doctorado o Estudios postgraduados,70
+2018,173. Butarque,Doctorado o Estudios postgraduados,216
+2018,174. Los Rosales,Doctorado o Estudios postgraduados,414
+2018,175. Los Ángeles,Doctorado o Estudios postgraduados,353
+2018,181. Casco Histórico de Vallecas,Doctorado o Estudios postgraduados,326
+2018,182. Santa Eugenia,Doctorado o Estudios postgraduados,542
+2018,183. Ensanche de Vallecas,Doctorado o Estudios postgraduados,1.395
+2018,191. Casco Histórico de Vicálvaro,Doctorado o Estudios postgraduados,274
+2018,192. Valdebernardo,Doctorado o Estudios postgraduados,437
+2018,193. Valderrivas,Doctorado o Estudios postgraduados,475
+2018,194. El Cañaveral,Doctorado o Estudios postgraduados,29
+2018,201. Simancas,Doctorado o Estudios postgraduados,713
+2018,202. Hellín,Doctorado o Estudios postgraduados,98
+2018,203. Amposta,Doctorado o Estudios postgraduados,56
+2018,204. Arcos,Doctorado o Estudios postgraduados,327
+2018,205. Rosas,Doctorado o Estudios postgraduados,933
+2018,206. Rejas,Doctorado o Estudios postgraduados,663
+2018,207. Canillejas,Doctorado o Estudios postgraduados,526
+2018,208. Salvador,Doctorado o Estudios postgraduados,666
+2018,211. Alameda de Osuna,Doctorado o Estudios postgraduados,946
+2018,212. Aeropuerto,Doctorado o Estudios postgraduados,11
+2018,213. Casco Histórico de Barajas,Doctorado o Estudios postgraduados,117
+2018,214. Timón,Doctorado o Estudios postgraduados,400
+2018,215. Corralejos,Doctorado o Estudios postgraduados,478
+2018,011. Palacio,Desconocido y No consta,16
+2018,012. Embajadores,Desconocido y No consta,39
+2018,013. Cortes,Desconocido y No consta,2
+2018,014. Justicia,Desconocido y No consta,12
+2018,015. Universidad,Desconocido y No consta,27
+2018,016. Sol,Desconocido y No consta,5
+2018,021. Imperial,Desconocido y No consta,34
+2018,022. Acacias,Desconocido y No consta,75
+2018,023. Chopera,Desconocido y No consta,17
+2018,024. Legazpi,Desconocido y No consta,5
+2018,025. Delicias,Desconocido y No consta,17
+2018,026. Palos de Moguer,Desconocido y No consta,19
+2018,027. Atocha,Desconocido y No consta,0
+2018,031. Pacífico,Desconocido y No consta,39
+2018,032. Adelfas,Desconocido y No consta,21
+2018,033. Estrella,Desconocido y No consta,22
+2018,034. Ibiza,Desconocido y No consta,28
+2018,035. Jerónimos,Desconocido y No consta,10
+2018,036. Niño Jesús,Desconocido y No consta,22
+2018,041. Recoletos,Desconocido y No consta,15
+2018,042. Goya,Desconocido y No consta,40
+2018,043. Fuente del Berro,Desconocido y No consta,20
+2018,044. Guindalera,Desconocido y No consta,38
+2018,045. Lista,Desconocido y No consta,34
+2018,046. Castellana,Desconocido y No consta,35
+2018,051. El Viso,Desconocido y No consta,64
+2018,052. Prosperidad,Desconocido y No consta,85
+2018,053. Ciudad Jardín,Desconocido y No consta,53
+2018,054. Hispanoamérica,Desconocido y No consta,80
+2018,055. Nueva España,Desconocido y No consta,39
+2018,056. Castilla,Desconocido y No consta,30
+2018,061. Bellas Vistas,Desconocido y No consta,40
+2018,062. Cuatro Caminos,Desconocido y No consta,86
+2018,063. Castillejos,Desconocido y No consta,26
+2018,064. Almenara,Desconocido y No consta,11
+2018,065. Valdeacederas,Desconocido y No consta,25
+2018,066. Berruguete,Desconocido y No consta,29
+2018,071. Gaztambide,Desconocido y No consta,30
+2018,072. Arapiles,Desconocido y No consta,31
+2018,073. Trafalgar,Desconocido y No consta,31
+2018,074. Almagro,Desconocido y No consta,40
+2018,075. Ríos Rosas,Desconocido y No consta,24
+2018,076. Vallehermoso,Desconocido y No consta,33
+2018,081. El Pardo,Desconocido y No consta,0
+2018,082. Fuentelarreina,Desconocido y No consta,3
+2018,083. Peñagrande,Desconocido y No consta,19
+2018,084. Pilar,Desconocido y No consta,42
+2018,085. La Paz,Desconocido y No consta,22
+2018,086. Valverde,Desconocido y No consta,32
+2018,087. Mirasierra,Desconocido y No consta,23
+2018,088. El Goloso,Desconocido y No consta,2
+2018,091. Casa de Campo,Desconocido y No consta,16
+2018,092. Argüelles,Desconocido y No consta,53
+2018,093. Ciudad Universitaria,Desconocido y No consta,37
+2018,094. Valdezarza,Desconocido y No consta,49
+2018,095. Valdemarín,Desconocido y No consta,2
+2018,096. El Plantío,Desconocido y No consta,1
+2018,097. Aravaca,Desconocido y No consta,41
+2018,101. Los Cármenes,Desconocido y No consta,26
+2018,102. Puerta del Angel,Desconocido y No consta,50
+2018,103. Lucero,Desconocido y No consta,30
+2018,104. Aluche,Desconocido y No consta,116
+2018,105. Campamento,Desconocido y No consta,21
+2018,106. Cuatro Vientos,Desconocido y No consta,0
+2018,107. Las Águilas,Desconocido y No consta,60
+2018,111. Comillas,Desconocido y No consta,26
+2018,112. Opañel,Desconocido y No consta,25
+2018,113. San Isidro,Desconocido y No consta,68
+2018,114. Vista Alegre,Desconocido y No consta,78
+2018,115. Puerta Bonita,Desconocido y No consta,24
+2018,116. Buenavista,Desconocido y No consta,25
+2018,117. Abrantes,Desconocido y No consta,78
+2018,121. Orcasitas,Desconocido y No consta,18
+2018,122. Orcasur,Desconocido y No consta,5
+2018,123. San Fermín,Desconocido y No consta,4
+2018,124. Almendrales,Desconocido y No consta,8
+2018,125. Moscardó,Desconocido y No consta,18
+2018,126. Zofio,Desconocido y No consta,6
+2018,127. Pradolongo,Desconocido y No consta,11
+2018,131. Entrevías,Desconocido y No consta,23
+2018,132. San Diego,Desconocido y No consta,21
+2018,133. Palomeras Bajas,Desconocido y No consta,45
+2018,134. Palomeras Sureste,Desconocido y No consta,36
+2018,135. Portazgo,Desconocido y No consta,50
+2018,136. Numancia,Desconocido y No consta,46
+2018,141. Pavones,Desconocido y No consta,10
+2018,142. Horcajo,Desconocido y No consta,0
+2018,143. Marroquina,Desconocido y No consta,23
+2018,144. Media Legua,Desconocido y No consta,32
+2018,145. Fontarrón,Desconocido y No consta,23
+2018,146. Vinateros,Desconocido y No consta,15
+2018,151. Ventas,Desconocido y No consta,82
+2018,152. Pueblo Nuevo,Desconocido y No consta,51
+2018,153. Quintana,Desconocido y No consta,41
+2018,154. Concepción,Desconocido y No consta,54
+2018,155. San Pascual,Desconocido y No consta,23
+2018,156. San Juan Bautista,Desconocido y No consta,19
+2018,157. Colina,Desconocido y No consta,9
+2018,158. Atalaya,Desconocido y No consta,5
+2018,159. Costillares,Desconocido y No consta,38
+2018,161. Palomas,Desconocido y No consta,6
+2018,162. Piovera,Desconocido y No consta,10
+2018,163. Canillas,Desconocido y No consta,38
+2018,164. Pinar del Rey,Desconocido y No consta,31
+2018,165. Apóstol Santiago,Desconocido y No consta,19
+2018,166. Valdefuentes,Desconocido y No consta,13
+2018,"171. Villaverde Alto, C.H. Villaverde",Desconocido y No consta,47
+2018,172. San Cristóbal,Desconocido y No consta,10
+2018,173. Butarque,Desconocido y No consta,7
+2018,174. Los Rosales,Desconocido y No consta,31
+2018,175. Los Ángeles,Desconocido y No consta,40
+2018,181. Casco Histórico de Vallecas,Desconocido y No consta,14
+2018,182. Santa Eugenia,Desconocido y No consta,13
+2018,183. Ensanche de Vallecas,Desconocido y No consta,0
+2018,191. Casco Histórico de Vicálvaro,Desconocido y No consta,4
+2018,192. Valdebernardo,Desconocido y No consta,1
+2018,193. Valderrivas,Desconocido y No consta,0
+2018,194. El Cañaveral,Desconocido y No consta,0
+2018,201. Simancas,Desconocido y No consta,17
+2018,202. Hellín,Desconocido y No consta,16
+2018,203. Amposta,Desconocido y No consta,8
+2018,204. Arcos,Desconocido y No consta,23
+2018,205. Rosas,Desconocido y No consta,10
+2018,206. Rejas,Desconocido y No consta,12
+2018,207. Canillejas,Desconocido y No consta,27
+2018,208. Salvador,Desconocido y No consta,14
+2018,211. Alameda de Osuna,Desconocido y No consta,15
+2018,212. Aeropuerto,Desconocido y No consta,2
+2018,213. Casco Histórico de Barajas,Desconocido y No consta,3
+2018,214. Timón,Desconocido y No consta,2
+2018,215. Corralejos,Desconocido y No consta,0
+2018,,No sabe leer ni escribir,13243
+2018,,Sin estudios,116371
+2018,,Enseñanza primaria incompleta,301397
+2018,,"Bachiller elemental, Graduado escolar, E.S.O.",560480
+2018,,Formación Profesional Primer Grado,98.603
+2018,,Formación Profesional Segundo Grado,94.418
+2018,,"Bachiller superior, B.U.P.",381.089
+2018,,Otros titulados medios,44.886
+2018,,Diplomado Escuela universitaria,147.793
+2018,,Arquitecto o Ingeniero Técnico,47.984
+2018,,Licenciado universitario,514.021
+2018,,Titulado estudios superiores no universitarios,19.699
+2018,,Doctorado o Estudios postgraduados,147.478
+2018,,Desconocido y No consta,3.467
