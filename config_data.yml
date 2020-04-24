@@ -90,6 +90,6 @@ reporting_status_extra_fields: []
 map_layers:
   - geojson_file: https://github.com/ods-lab/ods-data-madrid/raw/develop/map/Barrios.geojson
     name_property: DESBDT
-    id_property: GEOCODIGO
+    id_property: CODBDT
     output_subfolder: regions
     filename_prefix: indicator_
