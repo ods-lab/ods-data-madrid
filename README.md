@@ -1,3 +1,4 @@
 # Open SDG - Data starter
+Este es el repositorio de datos del proyecto de indicadors de ODSLab.
 
-This is a starter repository to help in implementing the [Open SDG](https://github.com/open-sdg/open-sdg) platform. [See here for documentation](https://open-sdg.readthedocs.io).
+Basado en el repositorio starter de la plataforma [Open SDG](https://github.com/open-sdg/open-sdg) [Click aqui para ver mas documentacion](https://open-sdg.readthedocs.io).
